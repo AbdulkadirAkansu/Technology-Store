@@ -1,0 +1,101 @@
+﻿<Window x:Class="Teknoloji_Magazasi.Views.KullanıcıViews.KullanıcıView"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Teknoloji_Magazasi.Views.KullanıcıViews"
+        mc:Ignorable="d"
+        Title="Kullanıcı Kaydet" Height="309" Width="769"
+        xmlns:materialDesign="http://materialdesigninxaml.net/winfx/xaml/themes"
+        TextElement.Foreground="{DynamicResource MaterialDesignBody}"
+        TextElement.FontWeight="Regular"
+        TextElement.FontSize="13"
+        TextOptions.TextFormattingMode="Ideal"
+        TextOptions.TextRenderingMode="Auto"
+        Background="{DynamicResource MaterialDesignPaper}"
+        FontFamily="{DynamicResource MaterialDesignFont}">
+    <Border Padding="10">
+        <Grid>
+            <Grid.RowDefinitions>
+                <RowDefinition Height="40"/>
+                <RowDefinition Height="40"/>
+                <RowDefinition Height="40"/>
+                <RowDefinition Height="40"/>
+                <RowDefinition Height="40"/>
+                <RowDefinition Height="*"/>
+            </Grid.RowDefinitions>
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="100"/>
+                <ColumnDefinition Width="*"/>
+            </Grid.ColumnDefinitions>
+
+            <TextBlock Text="Adı :"
+                       VerticalAlignment="Center"
+                       HorizontalAlignment="Right"/>
+
+            <TextBox Name="txtAd"
+                     Grid.Column="1"
+                     VerticalAlignment="Center"
+                     Margin="5 0"
+                     Text="{Binding Ad, UpdateSourceTrigger=Explicit}"/>
+
+            <TextBlock Text="Soyadı :"
+                       Grid.Row="1"
+                       VerticalAlignment="Center"
+                       HorizontalAlignment="Right"/>
+            <TextBox Name="txtSoyad"
+                     Grid.Column="1"
+                     Grid.Row="1"
+                     VerticalAlignment="Center"
+                     Margin="5 0"
+                     Text="{Binding Soyad, UpdateSourceTrigger=Explicit}"/>
+
+            <TextBlock Text="Yetki :"
+                       Grid.Row="2"
+                       VerticalAlignment="Center"
+                       HorizontalAlignment="Right"/>
+            <ComboBox Name="cbxYetki"
+                      Grid.Column="1"
+                      Grid.Row="2"
+                      VerticalAlignment="Center"
+                      Margin="5 0"
+                      ItemsSource="{Binding Yetkiler}"
+                      SelectedValue="{Binding Yetki, UpdateSourceTrigger=Explicit}"/>
+
+            <TextBlock Text="Parola :"
+                       Grid.Row="3"
+                       VerticalAlignment="Center"
+                       HorizontalAlignment="Right"/>
+            <TextBox Name="txtParola"
+                     Grid.Column="1"
+                     Grid.Row="3"
+                     VerticalAlignment="Center"
+                     Margin="5 0"
+                     Text="{Binding Parola, UpdateSourceTrigger=Explicit}"/>
+
+            <TextBlock Text="E Posta :"
+                       Grid.Row="4"
+                       VerticalAlignment="Center"
+                       HorizontalAlignment="Right"/>
+            <TextBox Name="txtEPosta"
+                     Grid.Column="1"
+                     Grid.Row="4"
+                     VerticalAlignment="Center"
+                     Margin="5 0"
+                     Text="{Binding EPosta, UpdateSourceTrigger=Explicit}"/>
+
+            <StackPanel Grid.Row="5" Grid.Column="1"
+                        Orientation="Horizontal" HorizontalAlignment="Right">
+                <Button Name="btnIptal"
+                        Content="İptal"
+                        Margin="3"
+                        Style="{StaticResource MaterialDesignRaisedAccentButton}"
+                        Click="btnIptal_Click"/>
+                <Button Name="btnTamam"
+                        Margin="3"
+                        Content="Tamam"
+                        Click="btnTamam_Click"/>
+            </StackPanel>
+        </Grid>
+    </Border>
+</Window>

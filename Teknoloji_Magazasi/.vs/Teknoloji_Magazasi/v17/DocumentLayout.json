@@ -1,0 +1,956 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\abdul\\OneDrive\\Masa\u00FCst\u00FC\\Teknoloji_Magazasi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A7CABAC9-A502-44DD-BC5A-B58A2BFB45AF}|Teknoloji_Magazasi\\Teknoloji_Magazasi.csproj|C:\\Users\\abdul\\OneDrive\\Masa\u00FCst\u00FC\\Teknoloji_Magazasi\\teknoloji_magazasi\\views\\sat\u0131sviews\\sat\u0131sekleview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{A7CABAC9-A502-44DD-BC5A-B58A2BFB45AF}|Teknoloji_Magazasi\\Teknoloji_Magazasi.csproj|solutionrelative:teknoloji_magazasi\\views\\sat\u0131sviews\\sat\u0131sekleview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7CABAC9-A502-44DD-BC5A-B58A2BFB45AF}|Teknoloji_Magazasi\\Teknoloji_Magazasi.csproj|C:\\Users\\abdul\\OneDrive\\Masa\u00FCst\u00FC\\Teknoloji_Magazasi\\teknoloji_magazasi\\views\\sat\u0131sviews\\sat\u0131slistview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{A7CABAC9-A502-44DD-BC5A-B58A2BFB45AF}|Teknoloji_Magazasi\\Teknoloji_Magazasi.csproj|solutionrelative:teknoloji_magazasi\\views\\sat\u0131sviews\\sat\u0131slistview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7CABAC9-A502-44DD-BC5A-B58A2BFB45AF}|Teknoloji_Magazasi\\Teknoloji_Magazasi.csproj|C:\\Users\\abdul\\OneDrive\\Masa\u00FCst\u00FC\\Teknoloji_Magazasi\\teknoloji_magazasi\\views\\markaviews\\markalistview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{A7CABAC9-A502-44DD-BC5A-B58A2BFB45AF}|Teknoloji_Magazasi\\Teknoloji_Magazasi.csproj|solutionrelative:teknoloji_magazasi\\views\\markaviews\\markalistview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7CABAC9-A502-44DD-BC5A-B58A2BFB45AF}|Teknoloji_Magazasi\\Teknoloji_Magazasi.csproj|c:\\users\\abdul\\onedrive\\masa\u00FCst\u00FC\\teknoloji_magazasi\\teknoloji_magazasi\\views\\markaviews\\markaview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{A7CABAC9-A502-44DD-BC5A-B58A2BFB45AF}|Teknoloji_Magazasi\\Teknoloji_Magazasi.csproj|solutionrelative:teknoloji_magazasi\\views\\markaviews\\markaview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7CABAC9-A502-44DD-BC5A-B58A2BFB45AF}|Teknoloji_Magazasi\\Teknoloji_Magazasi.csproj|C:\\Users\\abdul\\OneDrive\\Masa\u00FCst\u00FC\\Teknoloji_Magazasi\\teknoloji_magazasi\\views\\kullan\u0131c\u0131views\\loginview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{A7CABAC9-A502-44DD-BC5A-B58A2BFB45AF}|Teknoloji_Magazasi\\Teknoloji_Magazasi.csproj|solutionrelative:teknoloji_magazasi\\views\\kullan\u0131c\u0131views\\loginview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7CABAC9-A502-44DD-BC5A-B58A2BFB45AF}|Teknoloji_Magazasi\\Teknoloji_Magazasi.csproj|C:\\Users\\abdul\\OneDrive\\Masa\u00FCst\u00FC\\Teknoloji_Magazasi\\teknoloji_magazasi\\views\\kullan\u0131c\u0131views\\kullan\u0131c\u0131listview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{A7CABAC9-A502-44DD-BC5A-B58A2BFB45AF}|Teknoloji_Magazasi\\Teknoloji_Magazasi.csproj|solutionrelative:teknoloji_magazasi\\views\\kullan\u0131c\u0131views\\kullan\u0131c\u0131listview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7CABAC9-A502-44DD-BC5A-B58A2BFB45AF}|Teknoloji_Magazasi\\Teknoloji_Magazasi.csproj|C:\\Users\\abdul\\OneDrive\\Masa\u00FCst\u00FC\\Teknoloji_Magazasi\\teknoloji_magazasi\\views\\kullan\u0131c\u0131views\\kullan\u0131c\u0131view.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{A7CABAC9-A502-44DD-BC5A-B58A2BFB45AF}|Teknoloji_Magazasi\\Teknoloji_Magazasi.csproj|solutionrelative:teknoloji_magazasi\\views\\kullan\u0131c\u0131views\\kullan\u0131c\u0131view.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7CABAC9-A502-44DD-BC5A-B58A2BFB45AF}|Teknoloji_Magazasi\\Teknoloji_Magazasi.csproj|C:\\Users\\abdul\\OneDrive\\Masa\u00FCst\u00FC\\Teknoloji_Magazasi\\teknoloji_magazasi\\viewmodels\\kullan\u0131c\u0131viewmodels\\kullan\u0131c\u0131viewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7CABAC9-A502-44DD-BC5A-B58A2BFB45AF}|Teknoloji_Magazasi\\Teknoloji_Magazasi.csproj|solutionrelative:teknoloji_magazasi\\viewmodels\\kullan\u0131c\u0131viewmodels\\kullan\u0131c\u0131viewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7CABAC9-A502-44DD-BC5A-B58A2BFB45AF}|Teknoloji_Magazasi\\Teknoloji_Magazasi.csproj|C:\\Users\\abdul\\OneDrive\\Masa\u00FCst\u00FC\\Teknoloji_Magazasi\\teknoloji_magazasi\\viewmodels\\kullan\u0131c\u0131viewmodels\\kullan\u0131c\u0131listviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7CABAC9-A502-44DD-BC5A-B58A2BFB45AF}|Teknoloji_Magazasi\\Teknoloji_Magazasi.csproj|solutionrelative:teknoloji_magazasi\\viewmodels\\kullan\u0131c\u0131viewmodels\\kullan\u0131c\u0131listviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0E45706-11A2-49A9-9791-3930D011799D}|Teknoloji_Magazasi.BusinnessLayer\\Teknoloji_Magazasi.BusinnessLayer.csproj|C:\\Users\\abdul\\OneDrive\\Masa\u00FCst\u00FC\\Teknoloji_Magazasi\\teknoloji_magazasi.businnesslayer\\sat\u0131smanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A0E45706-11A2-49A9-9791-3930D011799D}|Teknoloji_Magazasi.BusinnessLayer\\Teknoloji_Magazasi.BusinnessLayer.csproj|solutionrelative:teknoloji_magazasi.businnesslayer\\sat\u0131smanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0E45706-11A2-49A9-9791-3930D011799D}|Teknoloji_Magazasi.BusinnessLayer\\Teknoloji_Magazasi.BusinnessLayer.csproj|C:\\Users\\abdul\\OneDrive\\Masa\u00FCst\u00FC\\Teknoloji_Magazasi\\teknoloji_magazasi.businnesslayer\\sat\u0131sdetaymanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A0E45706-11A2-49A9-9791-3930D011799D}|Teknoloji_Magazasi.BusinnessLayer\\Teknoloji_Magazasi.BusinnessLayer.csproj|solutionrelative:teknoloji_magazasi.businnesslayer\\sat\u0131sdetaymanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7CABAC9-A502-44DD-BC5A-B58A2BFB45AF}|Teknoloji_Magazasi\\Teknoloji_Magazasi.csproj|C:\\Users\\abdul\\OneDrive\\Masa\u00FCst\u00FC\\Teknoloji_Magazasi\\teknoloji_magazasi\\views\\kullan\u0131c\u0131views\\kullan\u0131c\u0131listview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7CABAC9-A502-44DD-BC5A-B58A2BFB45AF}|Teknoloji_Magazasi\\Teknoloji_Magazasi.csproj|solutionrelative:teknoloji_magazasi\\views\\kullan\u0131c\u0131views\\kullan\u0131c\u0131listview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7CABAC9-A502-44DD-BC5A-B58A2BFB45AF}|Teknoloji_Magazasi\\Teknoloji_Magazasi.csproj|C:\\Users\\abdul\\OneDrive\\Masa\u00FCst\u00FC\\Teknoloji_Magazasi\\teknoloji_magazasi\\views\\sat\u0131sviews\\sat\u0131sekleview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7CABAC9-A502-44DD-BC5A-B58A2BFB45AF}|Teknoloji_Magazasi\\Teknoloji_Magazasi.csproj|solutionrelative:teknoloji_magazasi\\views\\sat\u0131sviews\\sat\u0131sekleview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7CABAC9-A502-44DD-BC5A-B58A2BFB45AF}|Teknoloji_Magazasi\\Teknoloji_Magazasi.csproj|C:\\Users\\abdul\\OneDrive\\Masa\u00FCst\u00FC\\Teknoloji_Magazasi\\teknoloji_magazasi\\views\\sat\u0131sdetayviews\\sat\u0131sdetaylistview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7CABAC9-A502-44DD-BC5A-B58A2BFB45AF}|Teknoloji_Magazasi\\Teknoloji_Magazasi.csproj|solutionrelative:teknoloji_magazasi\\views\\sat\u0131sdetayviews\\sat\u0131sdetaylistview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7CABAC9-A502-44DD-BC5A-B58A2BFB45AF}|Teknoloji_Magazasi\\Teknoloji_Magazasi.csproj|C:\\Users\\abdul\\OneDrive\\Masa\u00FCst\u00FC\\Teknoloji_Magazasi\\teknoloji_magazasi\\views\\sat\u0131sdetayviews\\sat\u0131sdetaylistview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{A7CABAC9-A502-44DD-BC5A-B58A2BFB45AF}|Teknoloji_Magazasi\\Teknoloji_Magazasi.csproj|solutionrelative:teknoloji_magazasi\\views\\sat\u0131sdetayviews\\sat\u0131sdetaylistview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7CABAC9-A502-44DD-BC5A-B58A2BFB45AF}|Teknoloji_Magazasi\\Teknoloji_Magazasi.csproj|C:\\Users\\abdul\\OneDrive\\Masa\u00FCst\u00FC\\Teknoloji_Magazasi\\teknoloji_magazasi\\views\\markaviews\\markalistview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7CABAC9-A502-44DD-BC5A-B58A2BFB45AF}|Teknoloji_Magazasi\\Teknoloji_Magazasi.csproj|solutionrelative:teknoloji_magazasi\\views\\markaviews\\markalistview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7CABAC9-A502-44DD-BC5A-B58A2BFB45AF}|Teknoloji_Magazasi\\Teknoloji_Magazasi.csproj|C:\\Users\\abdul\\OneDrive\\Masa\u00FCst\u00FC\\Teknoloji_Magazasi\\teknoloji_magazasi\\viewmodels\\urunviewmodels\\urunlistviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7CABAC9-A502-44DD-BC5A-B58A2BFB45AF}|Teknoloji_Magazasi\\Teknoloji_Magazasi.csproj|solutionrelative:teknoloji_magazasi\\viewmodels\\urunviewmodels\\urunlistviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7CABAC9-A502-44DD-BC5A-B58A2BFB45AF}|Teknoloji_Magazasi\\Teknoloji_Magazasi.csproj|C:\\Users\\abdul\\OneDrive\\Masa\u00FCst\u00FC\\Teknoloji_Magazasi\\teknoloji_magazasi\\viewmodels\\urunviewmodels\\urunviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7CABAC9-A502-44DD-BC5A-B58A2BFB45AF}|Teknoloji_Magazasi\\Teknoloji_Magazasi.csproj|solutionrelative:teknoloji_magazasi\\viewmodels\\urunviewmodels\\urunviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7CABAC9-A502-44DD-BC5A-B58A2BFB45AF}|Teknoloji_Magazasi\\Teknoloji_Magazasi.csproj|C:\\Users\\abdul\\OneDrive\\Masa\u00FCst\u00FC\\Teknoloji_Magazasi\\teknoloji_magazasi\\viewmodels\\sat\u0131sviewmodels\\sat\u0131slistviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7CABAC9-A502-44DD-BC5A-B58A2BFB45AF}|Teknoloji_Magazasi\\Teknoloji_Magazasi.csproj|solutionrelative:teknoloji_magazasi\\viewmodels\\sat\u0131sviewmodels\\sat\u0131slistviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7CABAC9-A502-44DD-BC5A-B58A2BFB45AF}|Teknoloji_Magazasi\\Teknoloji_Magazasi.csproj|C:\\Users\\abdul\\OneDrive\\Masa\u00FCst\u00FC\\Teknoloji_Magazasi\\teknoloji_magazasi\\viewmodels\\sat\u0131sviewmodels\\sat\u0131sekleviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7CABAC9-A502-44DD-BC5A-B58A2BFB45AF}|Teknoloji_Magazasi\\Teknoloji_Magazasi.csproj|solutionrelative:teknoloji_magazasi\\viewmodels\\sat\u0131sviewmodels\\sat\u0131sekleviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7CABAC9-A502-44DD-BC5A-B58A2BFB45AF}|Teknoloji_Magazasi\\Teknoloji_Magazasi.csproj|C:\\Users\\abdul\\OneDrive\\Masa\u00FCst\u00FC\\Teknoloji_Magazasi\\teknoloji_magazasi\\views\\urunviews\\urunlistview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{A7CABAC9-A502-44DD-BC5A-B58A2BFB45AF}|Teknoloji_Magazasi\\Teknoloji_Magazasi.csproj|solutionrelative:teknoloji_magazasi\\views\\urunviews\\urunlistview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7CABAC9-A502-44DD-BC5A-B58A2BFB45AF}|Teknoloji_Magazasi\\Teknoloji_Magazasi.csproj|C:\\Users\\abdul\\OneDrive\\Masa\u00FCst\u00FC\\Teknoloji_Magazasi\\teknoloji_magazasi\\views\\urunviews\\urunlistview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7CABAC9-A502-44DD-BC5A-B58A2BFB45AF}|Teknoloji_Magazasi\\Teknoloji_Magazasi.csproj|solutionrelative:teknoloji_magazasi\\views\\urunviews\\urunlistview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7CABAC9-A502-44DD-BC5A-B58A2BFB45AF}|Teknoloji_Magazasi\\Teknoloji_Magazasi.csproj|C:\\Users\\abdul\\OneDrive\\Masa\u00FCst\u00FC\\Teknoloji_Magazasi\\teknoloji_magazasi\\views\\urunviews\\urunview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{A7CABAC9-A502-44DD-BC5A-B58A2BFB45AF}|Teknoloji_Magazasi\\Teknoloji_Magazasi.csproj|solutionrelative:teknoloji_magazasi\\views\\urunviews\\urunview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7CABAC9-A502-44DD-BC5A-B58A2BFB45AF}|Teknoloji_Magazasi\\Teknoloji_Magazasi.csproj|C:\\Users\\abdul\\OneDrive\\Masa\u00FCst\u00FC\\Teknoloji_Magazasi\\teknoloji_magazasi\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{A7CABAC9-A502-44DD-BC5A-B58A2BFB45AF}|Teknoloji_Magazasi\\Teknoloji_Magazasi.csproj|solutionrelative:teknoloji_magazasi\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7CABAC9-A502-44DD-BC5A-B58A2BFB45AF}|Teknoloji_Magazasi\\Teknoloji_Magazasi.csproj|C:\\Users\\abdul\\OneDrive\\Masa\u00FCst\u00FC\\Teknoloji_Magazasi\\teknoloji_magazasi\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7CABAC9-A502-44DD-BC5A-B58A2BFB45AF}|Teknoloji_Magazasi\\Teknoloji_Magazasi.csproj|solutionrelative:teknoloji_magazasi\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7CABAC9-A502-44DD-BC5A-B58A2BFB45AF}|Teknoloji_Magazasi\\Teknoloji_Magazasi.csproj|C:\\Users\\abdul\\OneDrive\\Masa\u00FCst\u00FC\\Teknoloji_Magazasi\\teknoloji_magazasi\\commons\\commands\\relaycommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7CABAC9-A502-44DD-BC5A-B58A2BFB45AF}|Teknoloji_Magazasi\\Teknoloji_Magazasi.csproj|solutionrelative:teknoloji_magazasi\\commons\\commands\\relaycommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7CABAC9-A502-44DD-BC5A-B58A2BFB45AF}|Teknoloji_Magazasi\\Teknoloji_Magazasi.csproj|C:\\Users\\abdul\\OneDrive\\Masa\u00FCst\u00FC\\Teknoloji_Magazasi\\teknoloji_magazasi\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7CABAC9-A502-44DD-BC5A-B58A2BFB45AF}|Teknoloji_Magazasi\\Teknoloji_Magazasi.csproj|solutionrelative:teknoloji_magazasi\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2DE5B9E2-F545-4B17-8C2B-54F4AA9CE2B4}|Teknoloji_Magazasi.EntityLayer\\Teknoloji_Magazasi.EntityLayer.csproj|C:\\Users\\abdul\\OneDrive\\Masa\u00FCst\u00FC\\Teknoloji_Magazasi\\teknoloji_magazasi.entitylayer\\marka.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2DE5B9E2-F545-4B17-8C2B-54F4AA9CE2B4}|Teknoloji_Magazasi.EntityLayer\\Teknoloji_Magazasi.EntityLayer.csproj|solutionrelative:teknoloji_magazasi.entitylayer\\marka.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/TeknolojiMagazasiDB/True/SqlTable/dbo.tblKullan\u0131c\u0131lar.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7CABAC9-A502-44DD-BC5A-B58A2BFB45AF}|Teknoloji_Magazasi\\Teknoloji_Magazasi.csproj|C:\\Users\\abdul\\OneDrive\\Masa\u00FCst\u00FC\\Teknoloji_Magazasi\\teknoloji_magazasi\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{A7CABAC9-A502-44DD-BC5A-B58A2BFB45AF}|Teknoloji_Magazasi\\Teknoloji_Magazasi.csproj|solutionrelative:teknoloji_magazasi\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7CABAC9-A502-44DD-BC5A-B58A2BFB45AF}|Teknoloji_Magazasi\\Teknoloji_Magazasi.csproj|C:\\Users\\abdul\\OneDrive\\Masa\u00FCst\u00FC\\Teknoloji_Magazasi\\teknoloji_magazasi\\viewmodels\\baseviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7CABAC9-A502-44DD-BC5A-B58A2BFB45AF}|Teknoloji_Magazasi\\Teknoloji_Magazasi.csproj|solutionrelative:teknoloji_magazasi\\viewmodels\\baseviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7CABAC9-A502-44DD-BC5A-B58A2BFB45AF}|Teknoloji_Magazasi\\Teknoloji_Magazasi.csproj|C:\\Users\\abdul\\OneDrive\\Masa\u00FCst\u00FC\\Teknoloji_Magazasi\\teknoloji_magazasi\\views\\kullan\u0131c\u0131views\\kullan\u0131c\u0131view.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7CABAC9-A502-44DD-BC5A-B58A2BFB45AF}|Teknoloji_Magazasi\\Teknoloji_Magazasi.csproj|solutionrelative:teknoloji_magazasi\\views\\kullan\u0131c\u0131views\\kullan\u0131c\u0131view.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7CABAC9-A502-44DD-BC5A-B58A2BFB45AF}|Teknoloji_Magazasi\\Teknoloji_Magazasi.csproj|C:\\Users\\abdul\\OneDrive\\Masa\u00FCst\u00FC\\Teknoloji_Magazasi\\teknoloji_magazasi\\views\\kullan\u0131c\u0131views\\loginview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7CABAC9-A502-44DD-BC5A-B58A2BFB45AF}|Teknoloji_Magazasi\\Teknoloji_Magazasi.csproj|solutionrelative:teknoloji_magazasi\\views\\kullan\u0131c\u0131views\\loginview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2DE5B9E2-F545-4B17-8C2B-54F4AA9CE2B4}|Teknoloji_Magazasi.EntityLayer\\Teknoloji_Magazasi.EntityLayer.csproj|C:\\Users\\abdul\\OneDrive\\Masa\u00FCst\u00FC\\Teknoloji_Magazasi\\teknoloji_magazasi.entitylayer\\urun.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2DE5B9E2-F545-4B17-8C2B-54F4AA9CE2B4}|Teknoloji_Magazasi.EntityLayer\\Teknoloji_Magazasi.EntityLayer.csproj|solutionrelative:teknoloji_magazasi.entitylayer\\urun.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2DE5B9E2-F545-4B17-8C2B-54F4AA9CE2B4}|Teknoloji_Magazasi.EntityLayer\\Teknoloji_Magazasi.EntityLayer.csproj|C:\\Users\\abdul\\OneDrive\\Masa\u00FCst\u00FC\\Teknoloji_Magazasi\\teknoloji_magazasi.entitylayer\\sat\u0131sdetay.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2DE5B9E2-F545-4B17-8C2B-54F4AA9CE2B4}|Teknoloji_Magazasi.EntityLayer\\Teknoloji_Magazasi.EntityLayer.csproj|solutionrelative:teknoloji_magazasi.entitylayer\\sat\u0131sdetay.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2DE5B9E2-F545-4B17-8C2B-54F4AA9CE2B4}|Teknoloji_Magazasi.EntityLayer\\Teknoloji_Magazasi.EntityLayer.csproj|C:\\Users\\abdul\\OneDrive\\Masa\u00FCst\u00FC\\Teknoloji_Magazasi\\teknoloji_magazasi.entitylayer\\sat\u0131s.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2DE5B9E2-F545-4B17-8C2B-54F4AA9CE2B4}|Teknoloji_Magazasi.EntityLayer\\Teknoloji_Magazasi.EntityLayer.csproj|solutionrelative:teknoloji_magazasi.entitylayer\\sat\u0131s.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2DE5B9E2-F545-4B17-8C2B-54F4AA9CE2B4}|Teknoloji_Magazasi.EntityLayer\\Teknoloji_Magazasi.EntityLayer.csproj|C:\\Users\\abdul\\OneDrive\\Masa\u00FCst\u00FC\\Teknoloji_Magazasi\\teknoloji_magazasi.entitylayer\\kullan\u0131c\u0131.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2DE5B9E2-F545-4B17-8C2B-54F4AA9CE2B4}|Teknoloji_Magazasi.EntityLayer\\Teknoloji_Magazasi.EntityLayer.csproj|solutionrelative:teknoloji_magazasi.entitylayer\\kullan\u0131c\u0131.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6B0D85C-1F05-4515-A632-B4B633C01BBA}|Teknoloji_Magazasi.DataAcessLayer\\Teknoloji_Magazasi.DataAcessLayer.csproj|C:\\Users\\abdul\\OneDrive\\Masa\u00FCst\u00FC\\Teknoloji_Magazasi\\teknoloji_magazasi.dataacesslayer\\abstract\\ikullan\u0131c\u0131repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6B0D85C-1F05-4515-A632-B4B633C01BBA}|Teknoloji_Magazasi.DataAcessLayer\\Teknoloji_Magazasi.DataAcessLayer.csproj|solutionrelative:teknoloji_magazasi.dataacesslayer\\abstract\\ikullan\u0131c\u0131repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0E45706-11A2-49A9-9791-3930D011799D}|Teknoloji_Magazasi.BusinnessLayer\\Teknoloji_Magazasi.BusinnessLayer.csproj|C:\\Users\\abdul\\OneDrive\\Masa\u00FCst\u00FC\\Teknoloji_Magazasi\\teknoloji_magazasi.businnesslayer\\urunmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A0E45706-11A2-49A9-9791-3930D011799D}|Teknoloji_Magazasi.BusinnessLayer\\Teknoloji_Magazasi.BusinnessLayer.csproj|solutionrelative:teknoloji_magazasi.businnesslayer\\urunmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0E45706-11A2-49A9-9791-3930D011799D}|Teknoloji_Magazasi.BusinnessLayer\\Teknoloji_Magazasi.BusinnessLayer.csproj|C:\\Users\\abdul\\OneDrive\\Masa\u00FCst\u00FC\\Teknoloji_Magazasi\\teknoloji_magazasi.businnesslayer\\markamanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A0E45706-11A2-49A9-9791-3930D011799D}|Teknoloji_Magazasi.BusinnessLayer\\Teknoloji_Magazasi.BusinnessLayer.csproj|solutionrelative:teknoloji_magazasi.businnesslayer\\markamanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0E45706-11A2-49A9-9791-3930D011799D}|Teknoloji_Magazasi.BusinnessLayer\\Teknoloji_Magazasi.BusinnessLayer.csproj|C:\\Users\\abdul\\OneDrive\\Masa\u00FCst\u00FC\\Teknoloji_Magazasi\\teknoloji_magazasi.businnesslayer\\kullan\u0131c\u0131manager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A0E45706-11A2-49A9-9791-3930D011799D}|Teknoloji_Magazasi.BusinnessLayer\\Teknoloji_Magazasi.BusinnessLayer.csproj|solutionrelative:teknoloji_magazasi.businnesslayer\\kullan\u0131c\u0131manager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7CABAC9-A502-44DD-BC5A-B58A2BFB45AF}|Teknoloji_Magazasi\\Teknoloji_Magazasi.csproj|C:\\Users\\abdul\\OneDrive\\Masa\u00FCst\u00FC\\Teknoloji_Magazasi\\teknoloji_magazasi\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{A7CABAC9-A502-44DD-BC5A-B58A2BFB45AF}|Teknoloji_Magazasi\\Teknoloji_Magazasi.csproj|solutionrelative:teknoloji_magazasi\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7CABAC9-A502-44DD-BC5A-B58A2BFB45AF}|Teknoloji_Magazasi\\Teknoloji_Magazasi.csproj|C:\\Users\\abdul\\OneDrive\\Masa\u00FCst\u00FC\\Teknoloji_Magazasi\\teknoloji_magazasi\\viewmodels\\markaviewmodels\\markalistviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7CABAC9-A502-44DD-BC5A-B58A2BFB45AF}|Teknoloji_Magazasi\\Teknoloji_Magazasi.csproj|solutionrelative:teknoloji_magazasi\\viewmodels\\markaviewmodels\\markalistviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7CABAC9-A502-44DD-BC5A-B58A2BFB45AF}|Teknoloji_Magazasi\\Teknoloji_Magazasi.csproj|C:\\Users\\abdul\\OneDrive\\Masa\u00FCst\u00FC\\Teknoloji_Magazasi\\teknoloji_magazasi\\viewmodels\\markaviewmodels\\markaviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7CABAC9-A502-44DD-BC5A-B58A2BFB45AF}|Teknoloji_Magazasi\\Teknoloji_Magazasi.csproj|solutionrelative:teknoloji_magazasi\\viewmodels\\markaviewmodels\\markaviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6B0D85C-1F05-4515-A632-B4B633C01BBA}|Teknoloji_Magazasi.DataAcessLayer\\Teknoloji_Magazasi.DataAcessLayer.csproj|C:\\Users\\abdul\\OneDrive\\Masa\u00FCst\u00FC\\Teknoloji_Magazasi\\teknoloji_magazasi.dataacesslayer\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6B0D85C-1F05-4515-A632-B4B633C01BBA}|Teknoloji_Magazasi.DataAcessLayer\\Teknoloji_Magazasi.DataAcessLayer.csproj|solutionrelative:teknoloji_magazasi.dataacesslayer\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6B0D85C-1F05-4515-A632-B4B633C01BBA}|Teknoloji_Magazasi.DataAcessLayer\\Teknoloji_Magazasi.DataAcessLayer.csproj|C:\\Users\\abdul\\OneDrive\\Masa\u00FCst\u00FC\\Teknoloji_Magazasi\\teknoloji_magazasi.dataacesslayer\\databasecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6B0D85C-1F05-4515-A632-B4B633C01BBA}|Teknoloji_Magazasi.DataAcessLayer\\Teknoloji_Magazasi.DataAcessLayer.csproj|solutionrelative:teknoloji_magazasi.dataacesslayer\\databasecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6B0D85C-1F05-4515-A632-B4B633C01BBA}|Teknoloji_Magazasi.DataAcessLayer\\Teknoloji_Magazasi.DataAcessLayer.csproj|C:\\Users\\abdul\\OneDrive\\Masa\u00FCst\u00FC\\Teknoloji_Magazasi\\teknoloji_magazasi.dataacesslayer\\concrete\\urunrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6B0D85C-1F05-4515-A632-B4B633C01BBA}|Teknoloji_Magazasi.DataAcessLayer\\Teknoloji_Magazasi.DataAcessLayer.csproj|solutionrelative:teknoloji_magazasi.dataacesslayer\\concrete\\urunrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6B0D85C-1F05-4515-A632-B4B633C01BBA}|Teknoloji_Magazasi.DataAcessLayer\\Teknoloji_Magazasi.DataAcessLayer.csproj|C:\\Users\\abdul\\OneDrive\\Masa\u00FCst\u00FC\\Teknoloji_Magazasi\\teknoloji_magazasi.dataacesslayer\\concrete\\sat\u0131sdetayrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6B0D85C-1F05-4515-A632-B4B633C01BBA}|Teknoloji_Magazasi.DataAcessLayer\\Teknoloji_Magazasi.DataAcessLayer.csproj|solutionrelative:teknoloji_magazasi.dataacesslayer\\concrete\\sat\u0131sdetayrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6B0D85C-1F05-4515-A632-B4B633C01BBA}|Teknoloji_Magazasi.DataAcessLayer\\Teknoloji_Magazasi.DataAcessLayer.csproj|C:\\Users\\abdul\\OneDrive\\Masa\u00FCst\u00FC\\Teknoloji_Magazasi\\teknoloji_magazasi.dataacesslayer\\concrete\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6B0D85C-1F05-4515-A632-B4B633C01BBA}|Teknoloji_Magazasi.DataAcessLayer\\Teknoloji_Magazasi.DataAcessLayer.csproj|solutionrelative:teknoloji_magazasi.dataacesslayer\\concrete\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6B0D85C-1F05-4515-A632-B4B633C01BBA}|Teknoloji_Magazasi.DataAcessLayer\\Teknoloji_Magazasi.DataAcessLayer.csproj|C:\\Users\\abdul\\OneDrive\\Masa\u00FCst\u00FC\\Teknoloji_Magazasi\\teknoloji_magazasi.dataacesslayer\\concrete\\kullan\u0131c\u0131repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6B0D85C-1F05-4515-A632-B4B633C01BBA}|Teknoloji_Magazasi.DataAcessLayer\\Teknoloji_Magazasi.DataAcessLayer.csproj|solutionrelative:teknoloji_magazasi.dataacesslayer\\concrete\\kullan\u0131c\u0131repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6B0D85C-1F05-4515-A632-B4B633C01BBA}|Teknoloji_Magazasi.DataAcessLayer\\Teknoloji_Magazasi.DataAcessLayer.csproj|C:\\Users\\abdul\\OneDrive\\Masa\u00FCst\u00FC\\Teknoloji_Magazasi\\teknoloji_magazasi.dataacesslayer\\abstract\\iurunrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6B0D85C-1F05-4515-A632-B4B633C01BBA}|Teknoloji_Magazasi.DataAcessLayer\\Teknoloji_Magazasi.DataAcessLayer.csproj|solutionrelative:teknoloji_magazasi.dataacesslayer\\abstract\\iurunrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6B0D85C-1F05-4515-A632-B4B633C01BBA}|Teknoloji_Magazasi.DataAcessLayer\\Teknoloji_Magazasi.DataAcessLayer.csproj|C:\\Users\\abdul\\OneDrive\\Masa\u00FCst\u00FC\\Teknoloji_Magazasi\\teknoloji_magazasi.dataacesslayer\\abstract\\isat\u0131sdetayrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6B0D85C-1F05-4515-A632-B4B633C01BBA}|Teknoloji_Magazasi.DataAcessLayer\\Teknoloji_Magazasi.DataAcessLayer.csproj|solutionrelative:teknoloji_magazasi.dataacesslayer\\abstract\\isat\u0131sdetayrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6B0D85C-1F05-4515-A632-B4B633C01BBA}|Teknoloji_Magazasi.DataAcessLayer\\Teknoloji_Magazasi.DataAcessLayer.csproj|C:\\Users\\abdul\\OneDrive\\Masa\u00FCst\u00FC\\Teknoloji_Magazasi\\teknoloji_magazasi.dataacesslayer\\abstract\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6B0D85C-1F05-4515-A632-B4B633C01BBA}|Teknoloji_Magazasi.DataAcessLayer\\Teknoloji_Magazasi.DataAcessLayer.csproj|solutionrelative:teknoloji_magazasi.dataacesslayer\\abstract\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7CABAC9-A502-44DD-BC5A-B58A2BFB45AF}|Teknoloji_Magazasi\\Teknoloji_Magazasi.csproj|C:\\Users\\abdul\\OneDrive\\Masa\u00FCst\u00FC\\Teknoloji_Magazasi\\teknoloji_magazasi\\views\\urunviews\\urunview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7CABAC9-A502-44DD-BC5A-B58A2BFB45AF}|Teknoloji_Magazasi\\Teknoloji_Magazasi.csproj|solutionrelative:teknoloji_magazasi\\views\\urunviews\\urunview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7CABAC9-A502-44DD-BC5A-B58A2BFB45AF}|Teknoloji_Magazasi\\Teknoloji_Magazasi.csproj|C:\\Users\\abdul\\OneDrive\\Masa\u00FCst\u00FC\\Teknoloji_Magazasi\\teknoloji_magazasi\\packages.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{A7CABAC9-A502-44DD-BC5A-B58A2BFB45AF}|Teknoloji_Magazasi\\Teknoloji_Magazasi.csproj|solutionrelative:teknoloji_magazasi\\packages.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7CABAC9-A502-44DD-BC5A-B58A2BFB45AF}|Teknoloji_Magazasi\\Teknoloji_Magazasi.csproj|C:\\Users\\abdul\\OneDrive\\Masa\u00FCst\u00FC\\Teknoloji_Magazasi\\teknoloji_magazasi\\viewmodels\\sat\u0131sdetayviewmodels\\sat\u0131sdetayviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7CABAC9-A502-44DD-BC5A-B58A2BFB45AF}|Teknoloji_Magazasi\\Teknoloji_Magazasi.csproj|solutionrelative:teknoloji_magazasi\\viewmodels\\sat\u0131sdetayviewmodels\\sat\u0131sdetayviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7CABAC9-A502-44DD-BC5A-B58A2BFB45AF}|Teknoloji_Magazasi\\Teknoloji_Magazasi.csproj|C:\\Users\\abdul\\OneDrive\\Masa\u00FCst\u00FC\\Teknoloji_Magazasi\\teknoloji_magazasi\\viewmodels\\sat\u0131sdetayviewmodels\\sat\u0131sdetaylistviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7CABAC9-A502-44DD-BC5A-B58A2BFB45AF}|Teknoloji_Magazasi\\Teknoloji_Magazasi.csproj|solutionrelative:teknoloji_magazasi\\viewmodels\\sat\u0131sdetayviewmodels\\sat\u0131sdetaylistviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7CABAC9-A502-44DD-BC5A-B58A2BFB45AF}|Teknoloji_Magazasi\\Teknoloji_Magazasi.csproj|C:\\Users\\abdul\\OneDrive\\Masa\u00FCst\u00FC\\Teknoloji_Magazasi\\teknoloji_magazasi\\views\\sat\u0131sviews\\sat\u0131slistview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7CABAC9-A502-44DD-BC5A-B58A2BFB45AF}|Teknoloji_Magazasi\\Teknoloji_Magazasi.csproj|solutionrelative:teknoloji_magazasi\\views\\sat\u0131sviews\\sat\u0131slistview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7CABAC9-A502-44DD-BC5A-B58A2BFB45AF}|Teknoloji_Magazasi\\Teknoloji_Magazasi.csproj|C:\\Users\\abdul\\OneDrive\\Masa\u00FCst\u00FC\\Teknoloji_Magazasi\\teknoloji_magazasi\\views\\markaviews\\markaview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7CABAC9-A502-44DD-BC5A-B58A2BFB45AF}|Teknoloji_Magazasi\\Teknoloji_Magazasi.csproj|solutionrelative:teknoloji_magazasi\\views\\markaviews\\markaview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Kullan\u0131c\u0131ListView.xaml",
+              "DocumentMoniker": "C:\\Users\\abdul\\OneDrive\\Masa\u00FCst\u00FC\\Teknoloji_Magazasi\\Teknoloji_Magazasi\\Views\\Kullan\u0131c\u0131Views\\Kullan\u0131c\u0131ListView.xaml",
+              "RelativeDocumentMoniker": "Teknoloji_Magazasi\\Views\\Kullan\u0131c\u0131Views\\Kullan\u0131c\u0131ListView.xaml",
+              "ToolTip": "C:\\Users\\abdul\\OneDrive\\Masa\u00FCst\u00FC\\Teknoloji_Magazasi\\Teknoloji_Magazasi\\Views\\Kullan\u0131c\u0131Views\\Kullan\u0131c\u0131ListView.xaml",
+              "RelativeToolTip": "Teknoloji_Magazasi\\Views\\Kullan\u0131c\u0131Views\\Kullan\u0131c\u0131ListView.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-09-26T13:34:58.84Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Kullan\u0131c\u0131View.xaml",
+              "DocumentMoniker": "C:\\Users\\abdul\\OneDrive\\Masa\u00FCst\u00FC\\Teknoloji_Magazasi\\Teknoloji_Magazasi\\Views\\Kullan\u0131c\u0131Views\\Kullan\u0131c\u0131View.xaml",
+              "RelativeDocumentMoniker": "Teknoloji_Magazasi\\Views\\Kullan\u0131c\u0131Views\\Kullan\u0131c\u0131View.xaml",
+              "ToolTip": "C:\\Users\\abdul\\OneDrive\\Masa\u00FCst\u00FC\\Teknoloji_Magazasi\\Teknoloji_Magazasi\\Views\\Kullan\u0131c\u0131Views\\Kullan\u0131c\u0131View.xaml",
+              "RelativeToolTip": "Teknoloji_Magazasi\\Views\\Kullan\u0131c\u0131Views\\Kullan\u0131c\u0131View.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-09-26T13:34:58.865Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "LoginView.xaml",
+              "DocumentMoniker": "C:\\Users\\abdul\\OneDrive\\Masa\u00FCst\u00FC\\Teknoloji_Magazasi\\Teknoloji_Magazasi\\Views\\Kullan\u0131c\u0131Views\\LoginView.xaml",
+              "RelativeDocumentMoniker": "Teknoloji_Magazasi\\Views\\Kullan\u0131c\u0131Views\\LoginView.xaml",
+              "ToolTip": "C:\\Users\\abdul\\OneDrive\\Masa\u00FCst\u00FC\\Teknoloji_Magazasi\\Teknoloji_Magazasi\\Views\\Kullan\u0131c\u0131Views\\LoginView.xaml",
+              "RelativeToolTip": "Teknoloji_Magazasi\\Views\\Kullan\u0131c\u0131Views\\LoginView.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-09-26T13:34:58.872Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MarkaListView.xaml",
+              "DocumentMoniker": "C:\\Users\\abdul\\OneDrive\\Masa\u00FCst\u00FC\\Teknoloji_Magazasi\\Teknoloji_Magazasi\\Views\\MarkaViews\\MarkaListView.xaml",
+              "RelativeDocumentMoniker": "Teknoloji_Magazasi\\Views\\MarkaViews\\MarkaListView.xaml",
+              "ToolTip": "C:\\Users\\abdul\\OneDrive\\Masa\u00FCst\u00FC\\Teknoloji_Magazasi\\Teknoloji_Magazasi\\Views\\MarkaViews\\MarkaListView.xaml",
+              "RelativeToolTip": "Teknoloji_Magazasi\\Views\\MarkaViews\\MarkaListView.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-09-26T13:34:58.867Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MarkaView.xaml",
+              "DocumentMoniker": "C:\\Users\\abdul\\OneDrive\\Masa\u00FCst\u00FC\\Teknoloji_Magazasi\\Teknoloji_Magazasi\\Views\\MarkaViews\\MarkaView.xaml",
+              "RelativeDocumentMoniker": "Teknoloji_Magazasi\\Views\\MarkaViews\\MarkaView.xaml",
+              "ToolTip": "C:\\Users\\abdul\\OneDrive\\Masa\u00FCst\u00FC\\Teknoloji_Magazasi\\Teknoloji_Magazasi\\Views\\MarkaViews\\MarkaView.xaml",
+              "RelativeToolTip": "Teknoloji_Magazasi\\Views\\MarkaViews\\MarkaView.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-09-26T13:34:58.933Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "dbo.tblKullan\u0131c\u0131lar [Data]",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/TeknolojiMagazasiDB/True/SqlTable/dbo.tblKullan\u0131c\u0131lar.sql",
+              "ToolTip": "dbo.tblKullan\u0131c\u0131lar [Data]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2023-05-27T16:37:43.647Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Marka.cs",
+              "DocumentMoniker": "C:\\Users\\abdul\\OneDrive\\Masa\u00FCst\u00FC\\Teknoloji_Magazasi\\Teknoloji_Magazasi.EntityLayer\\Marka.cs",
+              "RelativeDocumentMoniker": "Teknoloji_Magazasi.EntityLayer\\Marka.cs",
+              "ToolTip": "C:\\Users\\abdul\\OneDrive\\Masa\u00FCst\u00FC\\Teknoloji_Magazasi\\Teknoloji_Magazasi.EntityLayer\\Marka.cs",
+              "RelativeToolTip": "Teknoloji_Magazasi.EntityLayer\\Marka.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-26T13:34:58.93Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Sat\u0131sListView.xaml",
+              "DocumentMoniker": "C:\\Users\\abdul\\OneDrive\\Masa\u00FCst\u00FC\\Teknoloji_Magazasi\\Teknoloji_Magazasi\\Views\\Sat\u0131sViews\\Sat\u0131sListView.xaml",
+              "RelativeDocumentMoniker": "Teknoloji_Magazasi\\Views\\Sat\u0131sViews\\Sat\u0131sListView.xaml",
+              "ToolTip": "C:\\Users\\abdul\\OneDrive\\Masa\u00FCst\u00FC\\Teknoloji_Magazasi\\Teknoloji_Magazasi\\Views\\Sat\u0131sViews\\Sat\u0131sListView.xaml",
+              "RelativeToolTip": "Teknoloji_Magazasi\\Views\\Sat\u0131sViews\\Sat\u0131sListView.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-09-26T13:34:58.883Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Sat\u0131sEkleView.xaml",
+              "DocumentMoniker": "C:\\Users\\abdul\\OneDrive\\Masa\u00FCst\u00FC\\Teknoloji_Magazasi\\Teknoloji_Magazasi\\Views\\Sat\u0131sViews\\Sat\u0131sEkleView.xaml",
+              "RelativeDocumentMoniker": "Teknoloji_Magazasi\\Views\\Sat\u0131sViews\\Sat\u0131sEkleView.xaml",
+              "ToolTip": "C:\\Users\\abdul\\OneDrive\\Masa\u00FCst\u00FC\\Teknoloji_Magazasi\\Teknoloji_Magazasi\\Views\\Sat\u0131sViews\\Sat\u0131sEkleView.xaml",
+              "RelativeToolTip": "Teknoloji_Magazasi\\Views\\Sat\u0131sViews\\Sat\u0131sEkleView.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-09-26T13:34:58.868Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Kullan\u0131c\u0131ListViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\abdul\\OneDrive\\Masa\u00FCst\u00FC\\Teknoloji_Magazasi\\Teknoloji_Magazasi\\ViewModels\\Kullan\u0131c\u0131ViewModels\\Kullan\u0131c\u0131ListViewModel.cs",
+              "RelativeDocumentMoniker": "Teknoloji_Magazasi\\ViewModels\\Kullan\u0131c\u0131ViewModels\\Kullan\u0131c\u0131ListViewModel.cs",
+              "ToolTip": "C:\\Users\\abdul\\OneDrive\\Masa\u00FCst\u00FC\\Teknoloji_Magazasi\\Teknoloji_Magazasi\\ViewModels\\Kullan\u0131c\u0131ViewModels\\Kullan\u0131c\u0131ListViewModel.cs",
+              "RelativeToolTip": "Teknoloji_Magazasi\\ViewModels\\Kullan\u0131c\u0131ViewModels\\Kullan\u0131c\u0131ListViewModel.cs",
+              "ViewState": "AQIAAFIAAAAAAAAAAAAqwE4AAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-26T13:34:58.935Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "Kullan\u0131c\u0131.cs",
+              "DocumentMoniker": "C:\\Users\\abdul\\OneDrive\\Masa\u00FCst\u00FC\\Teknoloji_Magazasi\\Teknoloji_Magazasi.EntityLayer\\Kullan\u0131c\u0131.cs",
+              "RelativeDocumentMoniker": "Teknoloji_Magazasi.EntityLayer\\Kullan\u0131c\u0131.cs",
+              "ToolTip": "C:\\Users\\abdul\\OneDrive\\Masa\u00FCst\u00FC\\Teknoloji_Magazasi\\Teknoloji_Magazasi.EntityLayer\\Kullan\u0131c\u0131.cs",
+              "RelativeToolTip": "Teknoloji_Magazasi.EntityLayer\\Kullan\u0131c\u0131.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-26T13:34:58.871Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Sat\u0131sDetayManager.cs",
+              "DocumentMoniker": "C:\\Users\\abdul\\OneDrive\\Masa\u00FCst\u00FC\\Teknoloji_Magazasi\\Teknoloji_Magazasi.BusinnessLayer\\Sat\u0131sDetayManager.cs",
+              "RelativeDocumentMoniker": "Teknoloji_Magazasi.BusinnessLayer\\Sat\u0131sDetayManager.cs",
+              "ToolTip": "C:\\Users\\abdul\\OneDrive\\Masa\u00FCst\u00FC\\Teknoloji_Magazasi\\Teknoloji_Magazasi.BusinnessLayer\\Sat\u0131sDetayManager.cs",
+              "RelativeToolTip": "Teknoloji_Magazasi.BusinnessLayer\\Sat\u0131sDetayManager.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-26T13:34:58.879Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "MarkaListView.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\abdul\\OneDrive\\Masa\u00FCst\u00FC\\Teknoloji_Magazasi\\Teknoloji_Magazasi\\Views\\MarkaViews\\MarkaListView.xaml.cs",
+              "RelativeDocumentMoniker": "Teknoloji_Magazasi\\Views\\MarkaViews\\MarkaListView.xaml.cs",
+              "ToolTip": "C:\\Users\\abdul\\OneDrive\\Masa\u00FCst\u00FC\\Teknoloji_Magazasi\\Teknoloji_Magazasi\\Views\\MarkaViews\\MarkaListView.xaml.cs",
+              "RelativeToolTip": "Teknoloji_Magazasi\\Views\\MarkaViews\\MarkaListView.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAAzAAAA",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAADjSURBVDhPY0AGretv/t9x7tl/KJd0sOfii/\u002Bimfv\u002Bbzv7lGhDGBlid2Eo1pTkZNiSLsVQWVkJFWFgYGdnZygoKGAwNjZmhAphgt0XnsFd8P79\u002B/9Pnz6F47CwsP/R0dH/z549i2IhE5QGg1P3PzMsTtVgsFTiYvj27RtUFAF\u002B//7N0NfXx4BsCIoBIVoMDOaKnFg1wwDIkAkTJkB5oDBAAnFxcf/b29uhPNygsLCQYdWqVWC9KC748eMHlEU8QDGAHDBqABUMQEkHmZmZ/9\u002B\u002BfQvl4QbCwsIM06dPx50niAcMDADfJl5g9BqhpwAAAABJRU5ErkJggg==",
+              "WhenOpened": "2024-09-26T13:34:58.867Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Kullan\u0131c\u0131ListView.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\abdul\\OneDrive\\Masa\u00FCst\u00FC\\Teknoloji_Magazasi\\Teknoloji_Magazasi\\Views\\Kullan\u0131c\u0131Views\\Kullan\u0131c\u0131ListView.xaml.cs",
+              "RelativeDocumentMoniker": "Teknoloji_Magazasi\\Views\\Kullan\u0131c\u0131Views\\Kullan\u0131c\u0131ListView.xaml.cs",
+              "ToolTip": "C:\\Users\\abdul\\OneDrive\\Masa\u00FCst\u00FC\\Teknoloji_Magazasi\\Teknoloji_Magazasi\\Views\\Kullan\u0131c\u0131Views\\Kullan\u0131c\u0131ListView.xaml.cs",
+              "RelativeToolTip": "Teknoloji_Magazasi\\Views\\Kullan\u0131c\u0131Views\\Kullan\u0131c\u0131ListView.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAA3AAAA",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAADjSURBVDhPY0AGretv/t9x7tl/KJd0sOfii/\u002Bimfv\u002Bbzv7lGhDGBlid2Eo1pTkZNiSLsVQWVkJFWFgYGdnZygoKGAwNjZmhAphgt0XnsFd8P79\u002B/9Pnz6F47CwsP/R0dH/z549i2IhE5QGg1P3PzMsTtVgsFTiYvj27RtUFAF\u002B//7N0NfXx4BsCIoBIVoMDOaKnFg1wwDIkAkTJkB5oDBAAnFxcf/b29uhPNygsLCQYdWqVWC9KC748eMHlEU8QDGAHDBqABUMQEkHmZmZ/9\u002B\u002BfQvl4QbCwsIM06dPx50niAcMDADfJl5g9BqhpwAAAABJRU5ErkJggg==",
+              "WhenOpened": "2024-09-26T13:34:58.864Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Sat\u0131sEkleView.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\abdul\\OneDrive\\Masa\u00FCst\u00FC\\Teknoloji_Magazasi\\Teknoloji_Magazasi\\Views\\Sat\u0131sViews\\Sat\u0131sEkleView.xaml.cs",
+              "RelativeDocumentMoniker": "Teknoloji_Magazasi\\Views\\Sat\u0131sViews\\Sat\u0131sEkleView.xaml.cs",
+              "ToolTip": "C:\\Users\\abdul\\OneDrive\\Masa\u00FCst\u00FC\\Teknoloji_Magazasi\\Teknoloji_Magazasi\\Views\\Sat\u0131sViews\\Sat\u0131sEkleView.xaml.cs",
+              "RelativeToolTip": "Teknoloji_Magazasi\\Views\\Sat\u0131sViews\\Sat\u0131sEkleView.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAzAAAA",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAADjSURBVDhPY0AGretv/t9x7tl/KJd0sOfii/\u002Bimfv\u002Bbzv7lGhDGBlid2Eo1pTkZNiSLsVQWVkJFWFgYGdnZygoKGAwNjZmhAphgt0XnsFd8P79\u002B/9Pnz6F47CwsP/R0dH/z549i2IhE5QGg1P3PzMsTtVgsFTiYvj27RtUFAF\u002B//7N0NfXx4BsCIoBIVoMDOaKnFg1wwDIkAkTJkB5oDBAAnFxcf/b29uhPNygsLCQYdWqVWC9KC748eMHlEU8QDGAHDBqABUMQEkHmZmZ/9\u002B\u002BfQvl4QbCwsIM06dPx50niAcMDADfJl5g9BqhpwAAAABJRU5ErkJggg==",
+              "WhenOpened": "2024-09-26T13:34:57.908Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Kullan\u0131c\u0131ViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\abdul\\OneDrive\\Masa\u00FCst\u00FC\\Teknoloji_Magazasi\\Teknoloji_Magazasi\\ViewModels\\Kullan\u0131c\u0131ViewModels\\Kullan\u0131c\u0131ViewModel.cs",
+              "RelativeDocumentMoniker": "Teknoloji_Magazasi\\ViewModels\\Kullan\u0131c\u0131ViewModels\\Kullan\u0131c\u0131ViewModel.cs",
+              "ToolTip": "C:\\Users\\abdul\\OneDrive\\Masa\u00FCst\u00FC\\Teknoloji_Magazasi\\Teknoloji_Magazasi\\ViewModels\\Kullan\u0131c\u0131ViewModels\\Kullan\u0131c\u0131ViewModel.cs",
+              "RelativeToolTip": "Teknoloji_Magazasi\\ViewModels\\Kullan\u0131c\u0131ViewModels\\Kullan\u0131c\u0131ViewModel.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAwEYAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-26T13:34:58.878Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "Kullan\u0131c\u0131Manager.cs",
+              "DocumentMoniker": "C:\\Users\\abdul\\OneDrive\\Masa\u00FCst\u00FC\\Teknoloji_Magazasi\\Teknoloji_Magazasi.BusinnessLayer\\Kullan\u0131c\u0131Manager.cs",
+              "RelativeDocumentMoniker": "Teknoloji_Magazasi.BusinnessLayer\\Kullan\u0131c\u0131Manager.cs",
+              "ToolTip": "C:\\Users\\abdul\\OneDrive\\Masa\u00FCst\u00FC\\Teknoloji_Magazasi\\Teknoloji_Magazasi.BusinnessLayer\\Kullan\u0131c\u0131Manager.cs",
+              "RelativeToolTip": "Teknoloji_Magazasi.BusinnessLayer\\Kullan\u0131c\u0131Manager.cs",
+              "ViewState": "AQIAAB0AAAAAAAAAAAApwEAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-26T13:34:58.877Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "MarkaManager.cs",
+              "DocumentMoniker": "C:\\Users\\abdul\\OneDrive\\Masa\u00FCst\u00FC\\Teknoloji_Magazasi\\Teknoloji_Magazasi.BusinnessLayer\\MarkaManager.cs",
+              "RelativeDocumentMoniker": "Teknoloji_Magazasi.BusinnessLayer\\MarkaManager.cs",
+              "ToolTip": "C:\\Users\\abdul\\OneDrive\\Masa\u00FCst\u00FC\\Teknoloji_Magazasi\\Teknoloji_Magazasi.BusinnessLayer\\MarkaManager.cs",
+              "RelativeToolTip": "Teknoloji_Magazasi.BusinnessLayer\\MarkaManager.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABMAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-26T13:34:58.88Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "UrunListView.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\abdul\\OneDrive\\Masa\u00FCst\u00FC\\Teknoloji_Magazasi\\Teknoloji_Magazasi\\Views\\UrunViews\\UrunListView.xaml.cs",
+              "RelativeDocumentMoniker": "Teknoloji_Magazasi\\Views\\UrunViews\\UrunListView.xaml.cs",
+              "ToolTip": "C:\\Users\\abdul\\OneDrive\\Masa\u00FCst\u00FC\\Teknoloji_Magazasi\\Teknoloji_Magazasi\\Views\\UrunViews\\UrunListView.xaml.cs",
+              "RelativeToolTip": "Teknoloji_Magazasi\\Views\\UrunViews\\UrunListView.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAiAAAA",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAADjSURBVDhPY0AGretv/t9x7tl/KJd0sOfii/\u002Bimfv\u002Bbzv7lGhDGBlid2Eo1pTkZNiSLsVQWVkJFWFgYGdnZygoKGAwNjZmhAphgt0XnsFd8P79\u002B/9Pnz6F47CwsP/R0dH/z549i2IhE5QGg1P3PzMsTtVgsFTiYvj27RtUFAF\u002B//7N0NfXx4BsCIoBIVoMDOaKnFg1wwDIkAkTJkB5oDBAAnFxcf/b29uhPNygsLCQYdWqVWC9KC748eMHlEU8QDGAHDBqABUMQEkHmZmZ/9\u002B\u002BfQvl4QbCwsIM06dPx50niAcMDADfJl5g9BqhpwAAAABJRU5ErkJggg==",
+              "WhenOpened": "2024-09-26T13:34:58.88Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "IKullan\u0131c\u0131Repository.cs",
+              "DocumentMoniker": "C:\\Users\\abdul\\OneDrive\\Masa\u00FCst\u00FC\\Teknoloji_Magazasi\\Teknoloji_Magazasi.DataAcessLayer\\Abstract\\IKullan\u0131c\u0131Repository.cs",
+              "RelativeDocumentMoniker": "Teknoloji_Magazasi.DataAcessLayer\\Abstract\\IKullan\u0131c\u0131Repository.cs",
+              "ToolTip": "C:\\Users\\abdul\\OneDrive\\Masa\u00FCst\u00FC\\Teknoloji_Magazasi\\Teknoloji_Magazasi.DataAcessLayer\\Abstract\\IKullan\u0131c\u0131Repository.cs",
+              "RelativeToolTip": "Teknoloji_Magazasi.DataAcessLayer\\Abstract\\IKullan\u0131c\u0131Repository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAkAAABBAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-26T13:34:58.881Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "UrunManager.cs",
+              "DocumentMoniker": "C:\\Users\\abdul\\OneDrive\\Masa\u00FCst\u00FC\\Teknoloji_Magazasi\\Teknoloji_Magazasi.BusinnessLayer\\UrunManager.cs",
+              "RelativeDocumentMoniker": "Teknoloji_Magazasi.BusinnessLayer\\UrunManager.cs",
+              "ToolTip": "C:\\Users\\abdul\\OneDrive\\Masa\u00FCst\u00FC\\Teknoloji_Magazasi\\Teknoloji_Magazasi.BusinnessLayer\\UrunManager.cs",
+              "RelativeToolTip": "Teknoloji_Magazasi.BusinnessLayer\\UrunManager.cs",
+              "ViewState": "AQIAACkAAAAAAAAAAAAtwA8AAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-26T13:34:58.882Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "RelayCommand.cs",
+              "DocumentMoniker": "C:\\Users\\abdul\\OneDrive\\Masa\u00FCst\u00FC\\Teknoloji_Magazasi\\Teknoloji_Magazasi\\Commons\\Commands\\RelayCommand.cs",
+              "RelativeDocumentMoniker": "Teknoloji_Magazasi\\Commons\\Commands\\RelayCommand.cs",
+              "ToolTip": "C:\\Users\\abdul\\OneDrive\\Masa\u00FCst\u00FC\\Teknoloji_Magazasi\\Teknoloji_Magazasi\\Commons\\Commands\\RelayCommand.cs",
+              "RelativeToolTip": "Teknoloji_Magazasi\\Commons\\Commands\\RelayCommand.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAA4AAABSAAAA",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAADtSURBVDhPYxgFCHDh4YX/sQtj/6u3qP9XblL\u002BHzk/8j9UiuHtx7f/VZpVwHxkNggwgohLjy79D18SzmAua86QZJbEwM/Bz3D91XWGCNMIRpAGo34jsGJkwMrMynCn9g5YP0PK0pT/3tO9/3/58gVuMjLA5wImEHH68WkGN3U3Bh4eHoiJJACwAb/\u002B/gI7CRuAeeH3398M8g3ycDayKxjC5oX9D54TjNX5IIDPC2Ann7x78n/E4ggGDw0PhgiDCLBrLj2/xJBhl0HQS3AFe67t\u002BT/lyBSGO2/uMHCxcTHYK9szdAd2kxwmIw8wMAAAESl0qwYO77cAAAAASUVORK5CYII=",
+              "WhenOpened": "2024-09-26T13:34:58.93Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "Kullan\u0131c\u0131View.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\abdul\\OneDrive\\Masa\u00FCst\u00FC\\Teknoloji_Magazasi\\Teknoloji_Magazasi\\Views\\Kullan\u0131c\u0131Views\\Kullan\u0131c\u0131View.xaml.cs",
+              "RelativeDocumentMoniker": "Teknoloji_Magazasi\\Views\\Kullan\u0131c\u0131Views\\Kullan\u0131c\u0131View.xaml.cs",
+              "ToolTip": "C:\\Users\\abdul\\OneDrive\\Masa\u00FCst\u00FC\\Teknoloji_Magazasi\\Teknoloji_Magazasi\\Views\\Kullan\u0131c\u0131Views\\Kullan\u0131c\u0131View.xaml.cs",
+              "RelativeToolTip": "Teknoloji_Magazasi\\Views\\Kullan\u0131c\u0131Views\\Kullan\u0131c\u0131View.xaml.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAADgvygAAAAhAAAA",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAADjSURBVDhPY0AGretv/t9x7tl/KJd0sOfii/\u002Bimfv\u002Bbzv7lGhDGBlid2Eo1pTkZNiSLsVQWVkJFWFgYGdnZygoKGAwNjZmhAphgt0XnsFd8P79\u002B/9Pnz6F47CwsP/R0dH/z549i2IhE5QGg1P3PzMsTtVgsFTiYvj27RtUFAF\u002B//7N0NfXx4BsCIoBIVoMDOaKnFg1wwDIkAkTJkB5oDBAAnFxcf/b29uhPNygsLCQYdWqVWC9KC748eMHlEU8QDGAHDBqABUMQEkHmZmZ/9\u002B\u002BfQvl4QbCwsIM06dPx50niAcMDADfJl5g9BqhpwAAAABJRU5ErkJggg==",
+              "WhenOpened": "2024-09-26T13:34:58.931Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "LoginView.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\abdul\\OneDrive\\Masa\u00FCst\u00FC\\Teknoloji_Magazasi\\Teknoloji_Magazasi\\Views\\Kullan\u0131c\u0131Views\\LoginView.xaml.cs",
+              "RelativeDocumentMoniker": "Teknoloji_Magazasi\\Views\\Kullan\u0131c\u0131Views\\LoginView.xaml.cs",
+              "ToolTip": "C:\\Users\\abdul\\OneDrive\\Masa\u00FCst\u00FC\\Teknoloji_Magazasi\\Teknoloji_Magazasi\\Views\\Kullan\u0131c\u0131Views\\LoginView.xaml.cs",
+              "RelativeToolTip": "Teknoloji_Magazasi\\Views\\Kullan\u0131c\u0131Views\\LoginView.xaml.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAADgvykAAAAhAAAA",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAADjSURBVDhPY0AGretv/t9x7tl/KJd0sOfii/\u002Bimfv\u002Bbzv7lGhDGBlid2Eo1pTkZNiSLsVQWVkJFWFgYGdnZygoKGAwNjZmhAphgt0XnsFd8P79\u002B/9Pnz6F47CwsP/R0dH/z549i2IhE5QGg1P3PzMsTtVgsFTiYvj27RtUFAF\u002B//7N0NfXx4BsCIoBIVoMDOaKnFg1wwDIkAkTJkB5oDBAAnFxcf/b29uhPNygsLCQYdWqVWC9KC748eMHlEU8QDGAHDBqABUMQEkHmZmZ/9\u002B\u002BfQvl4QbCwsIM06dPx50niAcMDADfJl5g9BqhpwAAAABJRU5ErkJggg==",
+              "WhenOpened": "2024-09-26T13:34:58.932Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Sat\u0131sManager.cs",
+              "DocumentMoniker": "C:\\Users\\abdul\\OneDrive\\Masa\u00FCst\u00FC\\Teknoloji_Magazasi\\Teknoloji_Magazasi.BusinnessLayer\\Sat\u0131sManager.cs",
+              "RelativeDocumentMoniker": "Teknoloji_Magazasi.BusinnessLayer\\Sat\u0131sManager.cs",
+              "ToolTip": "C:\\Users\\abdul\\OneDrive\\Masa\u00FCst\u00FC\\Teknoloji_Magazasi\\Teknoloji_Magazasi.BusinnessLayer\\Sat\u0131sManager.cs",
+              "RelativeToolTip": "Teknoloji_Magazasi.BusinnessLayer\\Sat\u0131sManager.cs",
+              "ViewState": "AQIAACAAAAAAAAAAAAAwwA0AAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-26T13:34:58.882Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Sat\u0131sDetayListView.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\abdul\\OneDrive\\Masa\u00FCst\u00FC\\Teknoloji_Magazasi\\Teknoloji_Magazasi\\Views\\Sat\u0131sDetayViews\\Sat\u0131sDetayListView.xaml.cs",
+              "RelativeDocumentMoniker": "Teknoloji_Magazasi\\Views\\Sat\u0131sDetayViews\\Sat\u0131sDetayListView.xaml.cs",
+              "ToolTip": "C:\\Users\\abdul\\OneDrive\\Masa\u00FCst\u00FC\\Teknoloji_Magazasi\\Teknoloji_Magazasi\\Views\\Sat\u0131sDetayViews\\Sat\u0131sDetayListView.xaml.cs",
+              "RelativeToolTip": "Teknoloji_Magazasi\\Views\\Sat\u0131sDetayViews\\Sat\u0131sDetayListView.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAADjSURBVDhPY0AGretv/t9x7tl/KJd0sOfii/\u002Bimfv\u002Bbzv7lGhDGBlid2Eo1pTkZNiSLsVQWVkJFWFgYGdnZygoKGAwNjZmhAphgt0XnsFd8P79\u002B/9Pnz6F47CwsP/R0dH/z549i2IhE5QGg1P3PzMsTtVgsFTiYvj27RtUFAF\u002B//7N0NfXx4BsCIoBIVoMDOaKnFg1wwDIkAkTJkB5oDBAAnFxcf/b29uhPNygsLCQYdWqVWC9KC748eMHlEU8QDGAHDBqABUMQEkHmZmZ/9\u002B\u002BfQvl4QbCwsIM06dPx50niAcMDADfJl5g9BqhpwAAAABJRU5ErkJggg==",
+              "WhenOpened": "2024-09-26T13:34:58.868Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Sat\u0131sDetayListView.xaml",
+              "DocumentMoniker": "C:\\Users\\abdul\\OneDrive\\Masa\u00FCst\u00FC\\Teknoloji_Magazasi\\Teknoloji_Magazasi\\Views\\Sat\u0131sDetayViews\\Sat\u0131sDetayListView.xaml",
+              "RelativeDocumentMoniker": "Teknoloji_Magazasi\\Views\\Sat\u0131sDetayViews\\Sat\u0131sDetayListView.xaml",
+              "ToolTip": "C:\\Users\\abdul\\OneDrive\\Masa\u00FCst\u00FC\\Teknoloji_Magazasi\\Teknoloji_Magazasi\\Views\\Sat\u0131sDetayViews\\Sat\u0131sDetayListView.xaml",
+              "RelativeToolTip": "Teknoloji_Magazasi\\Views\\Sat\u0131sDetayViews\\Sat\u0131sDetayListView.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-09-26T13:34:58.869Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "Sat\u0131sDetay.cs",
+              "DocumentMoniker": "C:\\Users\\abdul\\OneDrive\\Masa\u00FCst\u00FC\\Teknoloji_Magazasi\\Teknoloji_Magazasi.EntityLayer\\Sat\u0131sDetay.cs",
+              "RelativeDocumentMoniker": "Teknoloji_Magazasi.EntityLayer\\Sat\u0131sDetay.cs",
+              "ToolTip": "C:\\Users\\abdul\\OneDrive\\Masa\u00FCst\u00FC\\Teknoloji_Magazasi\\Teknoloji_Magazasi.EntityLayer\\Sat\u0131sDetay.cs",
+              "RelativeToolTip": "Teknoloji_Magazasi.EntityLayer\\Sat\u0131sDetay.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-26T13:34:58.87Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "Sat\u0131s.cs",
+              "DocumentMoniker": "C:\\Users\\abdul\\OneDrive\\Masa\u00FCst\u00FC\\Teknoloji_Magazasi\\Teknoloji_Magazasi.EntityLayer\\Sat\u0131s.cs",
+              "RelativeDocumentMoniker": "Teknoloji_Magazasi.EntityLayer\\Sat\u0131s.cs",
+              "ToolTip": "C:\\Users\\abdul\\OneDrive\\Masa\u00FCst\u00FC\\Teknoloji_Magazasi\\Teknoloji_Magazasi.EntityLayer\\Sat\u0131s.cs",
+              "RelativeToolTip": "Teknoloji_Magazasi.EntityLayer\\Sat\u0131s.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-26T13:34:58.87Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "UrunListViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\abdul\\OneDrive\\Masa\u00FCst\u00FC\\Teknoloji_Magazasi\\Teknoloji_Magazasi\\ViewModels\\UrunViewModels\\UrunListViewModel.cs",
+              "RelativeDocumentMoniker": "Teknoloji_Magazasi\\ViewModels\\UrunViewModels\\UrunListViewModel.cs",
+              "ToolTip": "C:\\Users\\abdul\\OneDrive\\Masa\u00FCst\u00FC\\Teknoloji_Magazasi\\Teknoloji_Magazasi\\ViewModels\\UrunViewModels\\UrunListViewModel.cs",
+              "RelativeToolTip": "Teknoloji_Magazasi\\ViewModels\\UrunViewModels\\UrunListViewModel.cs",
+              "ViewState": "AQIAAGYAAAAAAAAAAAAYwHYAAAAAAAAA",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAADtSURBVDhPYxgFCHDh4YX/sQtj/6u3qP9XblL\u002BHzk/8j9UiuHtx7f/VZpVwHxkNggwgohLjy79D18SzmAua86QZJbEwM/Bz3D91XWGCNMIRpAGo34jsGJkwMrMynCn9g5YP0PK0pT/3tO9/3/58gVuMjLA5wImEHH68WkGN3U3Bh4eHoiJJACwAb/\u002B/gI7CRuAeeH3398M8g3ycDayKxjC5oX9D54TjNX5IIDPC2Ann7x78n/E4ggGDw0PhgiDCLBrLj2/xJBhl0HQS3AFe67t\u002BT/lyBSGO2/uMHCxcTHYK9szdAd2kxwmIw8wMAAAESl0qwYO77cAAAAASUVORK5CYII=",
+              "WhenOpened": "2024-09-26T13:34:58.872Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "UrunViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\abdul\\OneDrive\\Masa\u00FCst\u00FC\\Teknoloji_Magazasi\\Teknoloji_Magazasi\\ViewModels\\UrunViewModels\\UrunViewModel.cs",
+              "RelativeDocumentMoniker": "Teknoloji_Magazasi\\ViewModels\\UrunViewModels\\UrunViewModel.cs",
+              "ToolTip": "C:\\Users\\abdul\\OneDrive\\Masa\u00FCst\u00FC\\Teknoloji_Magazasi\\Teknoloji_Magazasi\\ViewModels\\UrunViewModels\\UrunViewModel.cs",
+              "RelativeToolTip": "Teknoloji_Magazasi\\ViewModels\\UrunViewModels\\UrunViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAeAAAA",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAADtSURBVDhPYxgFCHDh4YX/sQtj/6u3qP9XblL\u002BHzk/8j9UiuHtx7f/VZpVwHxkNggwgohLjy79D18SzmAua86QZJbEwM/Bz3D91XWGCNMIRpAGo34jsGJkwMrMynCn9g5YP0PK0pT/3tO9/3/58gVuMjLA5wImEHH68WkGN3U3Bh4eHoiJJACwAb/\u002B/gI7CRuAeeH3398M8g3ycDayKxjC5oX9D54TjNX5IIDPC2Ann7x78n/E4ggGDw0PhgiDCLBrLj2/xJBhl0HQS3AFe67t\u002BT/lyBSGO2/uMHCxcTHYK9szdAd2kxwmIw8wMAAAESl0qwYO77cAAAAASUVORK5CYII=",
+              "WhenOpened": "2024-09-26T13:34:58.873Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Sat\u0131sListViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\abdul\\OneDrive\\Masa\u00FCst\u00FC\\Teknoloji_Magazasi\\Teknoloji_Magazasi\\ViewModels\\Sat\u0131sViewModels\\Sat\u0131sListViewModel.cs",
+              "RelativeDocumentMoniker": "Teknoloji_Magazasi\\ViewModels\\Sat\u0131sViewModels\\Sat\u0131sListViewModel.cs",
+              "ToolTip": "C:\\Users\\abdul\\OneDrive\\Masa\u00FCst\u00FC\\Teknoloji_Magazasi\\Teknoloji_Magazasi\\ViewModels\\Sat\u0131sViewModels\\Sat\u0131sListViewModel.cs",
+              "RelativeToolTip": "Teknoloji_Magazasi\\ViewModels\\Sat\u0131sViewModels\\Sat\u0131sListViewModel.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAAAwEoAAAAJAAAA",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAADtSURBVDhPYxgFCHDh4YX/sQtj/6u3qP9XblL\u002BHzk/8j9UiuHtx7f/VZpVwHxkNggwgohLjy79D18SzmAua86QZJbEwM/Bz3D91XWGCNMIRpAGo34jsGJkwMrMynCn9g5YP0PK0pT/3tO9/3/58gVuMjLA5wImEHH68WkGN3U3Bh4eHoiJJACwAb/\u002B/gI7CRuAeeH3398M8g3ycDayKxjC5oX9D54TjNX5IIDPC2Ann7x78n/E4ggGDw0PhgiDCLBrLj2/xJBhl0HQS3AFe67t\u002BT/lyBSGO2/uMHCxcTHYK9szdAd2kxwmIw8wMAAAESl0qwYO77cAAAAASUVORK5CYII=",
+              "WhenOpened": "2024-09-26T13:34:58.874Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Sat\u0131sEkleViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\abdul\\OneDrive\\Masa\u00FCst\u00FC\\Teknoloji_Magazasi\\Teknoloji_Magazasi\\ViewModels\\Sat\u0131sViewModels\\Sat\u0131sEkleViewModel.cs",
+              "RelativeDocumentMoniker": "Teknoloji_Magazasi\\ViewModels\\Sat\u0131sViewModels\\Sat\u0131sEkleViewModel.cs",
+              "ToolTip": "C:\\Users\\abdul\\OneDrive\\Masa\u00FCst\u00FC\\Teknoloji_Magazasi\\Teknoloji_Magazasi\\ViewModels\\Sat\u0131sViewModels\\Sat\u0131sEkleViewModel.cs",
+              "RelativeToolTip": "Teknoloji_Magazasi\\ViewModels\\Sat\u0131sViewModels\\Sat\u0131sEkleViewModel.cs",
+              "ViewState": "AQIAAE0AAAAAAAAAAAAYwHkAAAAOAAAA",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAADtSURBVDhPYxgFCHDh4YX/sQtj/6u3qP9XblL\u002BHzk/8j9UiuHtx7f/VZpVwHxkNggwgohLjy79D18SzmAua86QZJbEwM/Bz3D91XWGCNMIRpAGo34jsGJkwMrMynCn9g5YP0PK0pT/3tO9/3/58gVuMjLA5wImEHH68WkGN3U3Bh4eHoiJJACwAb/\u002B/gI7CRuAeeH3398M8g3ycDayKxjC5oX9D54TjNX5IIDPC2Ann7x78n/E4ggGDw0PhgiDCLBrLj2/xJBhl0HQS3AFe67t\u002BT/lyBSGO2/uMHCxcTHYK9szdAd2kxwmIw8wMAAAESl0qwYO77cAAAAASUVORK5CYII=",
+              "WhenOpened": "2024-09-26T13:34:58.875Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "UrunListView.xaml",
+              "DocumentMoniker": "C:\\Users\\abdul\\OneDrive\\Masa\u00FCst\u00FC\\Teknoloji_Magazasi\\Teknoloji_Magazasi\\Views\\UrunViews\\UrunListView.xaml",
+              "RelativeDocumentMoniker": "Teknoloji_Magazasi\\Views\\UrunViews\\UrunListView.xaml",
+              "ToolTip": "C:\\Users\\abdul\\OneDrive\\Masa\u00FCst\u00FC\\Teknoloji_Magazasi\\Teknoloji_Magazasi\\Views\\UrunViews\\UrunListView.xaml",
+              "RelativeToolTip": "Teknoloji_Magazasi\\Views\\UrunViews\\UrunListView.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-09-26T13:34:58.876Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "App.xaml",
+              "DocumentMoniker": "C:\\Users\\abdul\\OneDrive\\Masa\u00FCst\u00FC\\Teknoloji_Magazasi\\Teknoloji_Magazasi\\App.xaml",
+              "RelativeDocumentMoniker": "Teknoloji_Magazasi\\App.xaml",
+              "ToolTip": "C:\\Users\\abdul\\OneDrive\\Masa\u00FCst\u00FC\\Teknoloji_Magazasi\\Teknoloji_Magazasi\\App.xaml",
+              "RelativeToolTip": "Teknoloji_Magazasi\\App.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-09-26T13:34:58.876Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "UrunView.xaml",
+              "DocumentMoniker": "C:\\Users\\abdul\\OneDrive\\Masa\u00FCst\u00FC\\Teknoloji_Magazasi\\Teknoloji_Magazasi\\Views\\UrunViews\\UrunView.xaml",
+              "RelativeDocumentMoniker": "Teknoloji_Magazasi\\Views\\UrunViews\\UrunView.xaml",
+              "ToolTip": "C:\\Users\\abdul\\OneDrive\\Masa\u00FCst\u00FC\\Teknoloji_Magazasi\\Teknoloji_Magazasi\\Views\\UrunViews\\UrunView.xaml",
+              "RelativeToolTip": "Teknoloji_Magazasi\\Views\\UrunViews\\UrunView.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-09-26T13:34:58.884Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\abdul\\OneDrive\\Masa\u00FCst\u00FC\\Teknoloji_Magazasi\\Teknoloji_Magazasi\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "Teknoloji_Magazasi\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\abdul\\OneDrive\\Masa\u00FCst\u00FC\\Teknoloji_Magazasi\\Teknoloji_Magazasi\\MainWindow.xaml.cs",
+              "RelativeToolTip": "Teknoloji_Magazasi\\MainWindow.xaml.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAQwEwAAAAAAAAA",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAADjSURBVDhPY0AGretv/t9x7tl/KJd0sOfii/\u002Bimfv\u002Bbzv7lGhDGBlid2Eo1pTkZNiSLsVQWVkJFWFgYGdnZygoKGAwNjZmhAphgt0XnsFd8P79\u002B/9Pnz6F47CwsP/R0dH/z549i2IhE5QGg1P3PzMsTtVgsFTiYvj27RtUFAF\u002B//7N0NfXx4BsCIoBIVoMDOaKnFg1wwDIkAkTJkB5oDBAAnFxcf/b29uhPNygsLCQYdWqVWC9KC748eMHlEU8QDGAHDBqABUMQEkHmZmZ/9\u002B\u002BfQvl4QbCwsIM06dPx50niAcMDADfJl5g9BqhpwAAAABJRU5ErkJggg==",
+              "WhenOpened": "2024-09-26T13:34:58.885Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\abdul\\OneDrive\\Masa\u00FCst\u00FC\\Teknoloji_Magazasi\\Teknoloji_Magazasi\\App.xaml.cs",
+              "RelativeDocumentMoniker": "Teknoloji_Magazasi\\App.xaml.cs",
+              "ToolTip": "C:\\Users\\abdul\\OneDrive\\Masa\u00FCst\u00FC\\Teknoloji_Magazasi\\Teknoloji_Magazasi\\App.xaml.cs",
+              "RelativeToolTip": "Teknoloji_Magazasi\\App.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAC8AAAABAAAA",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAADjSURBVDhPY0AGretv/t9x7tl/KJd0sOfii/\u002Bimfv\u002Bbzv7lGhDGBlid2Eo1pTkZNiSLsVQWVkJFWFgYGdnZygoKGAwNjZmhAphgt0XnsFd8P79\u002B/9Pnz6F47CwsP/R0dH/z549i2IhE5QGg1P3PzMsTtVgsFTiYvj27RtUFAF\u002B//7N0NfXx4BsCIoBIVoMDOaKnFg1wwDIkAkTJkB5oDBAAnFxcf/b29uhPNygsLCQYdWqVWC9KC748eMHlEU8QDGAHDBqABUMQEkHmZmZ/9\u002B\u002BfQvl4QbCwsIM06dPx50niAcMDADfJl5g9BqhpwAAAABJRU5ErkJggg==",
+              "WhenOpened": "2024-09-26T13:34:58.934Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\abdul\\OneDrive\\Masa\u00FCst\u00FC\\Teknoloji_Magazasi\\Teknoloji_Magazasi\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "Teknoloji_Magazasi\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\abdul\\OneDrive\\Masa\u00FCst\u00FC\\Teknoloji_Magazasi\\Teknoloji_Magazasi\\MainWindow.xaml",
+              "RelativeToolTip": "Teknoloji_Magazasi\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-09-26T13:34:58.934Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "BaseViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\abdul\\OneDrive\\Masa\u00FCst\u00FC\\Teknoloji_Magazasi\\Teknoloji_Magazasi\\ViewModels\\BaseViewModel.cs",
+              "RelativeDocumentMoniker": "Teknoloji_Magazasi\\ViewModels\\BaseViewModel.cs",
+              "ToolTip": "C:\\Users\\abdul\\OneDrive\\Masa\u00FCst\u00FC\\Teknoloji_Magazasi\\Teknoloji_Magazasi\\ViewModels\\BaseViewModel.cs",
+              "RelativeToolTip": "Teknoloji_Magazasi\\ViewModels\\BaseViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAA3AAAA",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAADtSURBVDhPYxgFCHDh4YX/sQtj/6u3qP9XblL\u002BHzk/8j9UiuHtx7f/VZpVwHxkNggwgohLjy79D18SzmAua86QZJbEwM/Bz3D91XWGCNMIRpAGo34jsGJkwMrMynCn9g5YP0PK0pT/3tO9/3/58gVuMjLA5wImEHH68WkGN3U3Bh4eHoiJJACwAb/\u002B/gI7CRuAeeH3398M8g3ycDayKxjC5oX9D54TjNX5IIDPC2Ann7x78n/E4ggGDw0PhgiDCLBrLj2/xJBhl0HQS3AFe67t\u002BT/lyBSGO2/uMHCxcTHYK9szdAd2kxwmIw8wMAAAESl0qwYO77cAAAAASUVORK5CYII=",
+              "WhenOpened": "2024-09-26T13:34:58.936Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "Urun.cs",
+              "DocumentMoniker": "C:\\Users\\abdul\\OneDrive\\Masa\u00FCst\u00FC\\Teknoloji_Magazasi\\Teknoloji_Magazasi.EntityLayer\\Urun.cs",
+              "RelativeDocumentMoniker": "Teknoloji_Magazasi.EntityLayer\\Urun.cs",
+              "ToolTip": "C:\\Users\\abdul\\OneDrive\\Masa\u00FCst\u00FC\\Teknoloji_Magazasi\\Teknoloji_Magazasi.EntityLayer\\Urun.cs",
+              "RelativeToolTip": "Teknoloji_Magazasi.EntityLayer\\Urun.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-26T13:34:58.936Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 56,
+              "Title": "Sat\u0131sDetayListViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\abdul\\OneDrive\\Masa\u00FCst\u00FC\\Teknoloji_Magazasi\\Teknoloji_Magazasi\\ViewModels\\Sat\u0131sDetayViewModels\\Sat\u0131sDetayListViewModel.cs",
+              "RelativeDocumentMoniker": "Teknoloji_Magazasi\\ViewModels\\Sat\u0131sDetayViewModels\\Sat\u0131sDetayListViewModel.cs",
+              "ToolTip": "C:\\Users\\abdul\\OneDrive\\Masa\u00FCst\u00FC\\Teknoloji_Magazasi\\Teknoloji_Magazasi\\ViewModels\\Sat\u0131sDetayViewModels\\Sat\u0131sDetayListViewModel.cs",
+              "RelativeToolTip": "Teknoloji_Magazasi\\ViewModels\\Sat\u0131sDetayViewModels\\Sat\u0131sDetayListViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACkAAAAwAAAA",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAADtSURBVDhPYxgFCHDh4YX/sQtj/6u3qP9XblL\u002BHzk/8j9UiuHtx7f/VZpVwHxkNggwgohLjy79D18SzmAua86QZJbEwM/Bz3D91XWGCNMIRpAGo34jsGJkwMrMynCn9g5YP0PK0pT/3tO9/3/58gVuMjLA5wImEHH68WkGN3U3Bh4eHoiJJACwAb/\u002B/gI7CRuAeeH3398M8g3ycDayKxjC5oX9D54TjNX5IIDPC2Ann7x78n/E4ggGDw0PhgiDCLBrLj2/xJBhl0HQS3AFe67t\u002BT/lyBSGO2/uMHCxcTHYK9szdAd2kxwmIw8wMAAAESl0qwYO77cAAAAASUVORK5CYII=",
+              "WhenOpened": "2024-09-26T13:34:58.938Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 58,
+              "Title": "MarkaView.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\abdul\\OneDrive\\Masa\u00FCst\u00FC\\Teknoloji_Magazasi\\Teknoloji_Magazasi\\Views\\MarkaViews\\MarkaView.xaml.cs",
+              "RelativeDocumentMoniker": "Teknoloji_Magazasi\\Views\\MarkaViews\\MarkaView.xaml.cs",
+              "ToolTip": "C:\\Users\\abdul\\OneDrive\\Masa\u00FCst\u00FC\\Teknoloji_Magazasi\\Teknoloji_Magazasi\\Views\\MarkaViews\\MarkaView.xaml.cs",
+              "RelativeToolTip": "Teknoloji_Magazasi\\Views\\MarkaViews\\MarkaView.xaml.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAADgvygAAAAAAAAA",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAADjSURBVDhPY0AGretv/t9x7tl/KJd0sOfii/\u002Bimfv\u002Bbzv7lGhDGBlid2Eo1pTkZNiSLsVQWVkJFWFgYGdnZygoKGAwNjZmhAphgt0XnsFd8P79\u002B/9Pnz6F47CwsP/R0dH/z549i2IhE5QGg1P3PzMsTtVgsFTiYvj27RtUFAF\u002B//7N0NfXx4BsCIoBIVoMDOaKnFg1wwDIkAkTJkB5oDBAAnFxcf/b29uhPNygsLCQYdWqVWC9KC748eMHlEU8QDGAHDBqABUMQEkHmZmZ/9\u002B\u002BfQvl4QbCwsIM06dPx50niAcMDADfJl5g9BqhpwAAAABJRU5ErkJggg==",
+              "WhenOpened": "2024-09-26T13:34:58.938Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "ISat\u0131sDetayRepository.cs",
+              "DocumentMoniker": "C:\\Users\\abdul\\OneDrive\\Masa\u00FCst\u00FC\\Teknoloji_Magazasi\\Teknoloji_Magazasi.DataAcessLayer\\Abstract\\ISat\u0131sDetayRepository.cs",
+              "RelativeDocumentMoniker": "Teknoloji_Magazasi.DataAcessLayer\\Abstract\\ISat\u0131sDetayRepository.cs",
+              "ToolTip": "C:\\Users\\abdul\\OneDrive\\Masa\u00FCst\u00FC\\Teknoloji_Magazasi\\Teknoloji_Magazasi.DataAcessLayer\\Abstract\\ISat\u0131sDetayRepository.cs",
+              "RelativeToolTip": "Teknoloji_Magazasi.DataAcessLayer\\Abstract\\ISat\u0131sDetayRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-26T13:34:58.939Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "IRepository.cs",
+              "DocumentMoniker": "C:\\Users\\abdul\\OneDrive\\Masa\u00FCst\u00FC\\Teknoloji_Magazasi\\Teknoloji_Magazasi.DataAcessLayer\\Abstract\\IRepository.cs",
+              "RelativeDocumentMoniker": "Teknoloji_Magazasi.DataAcessLayer\\Abstract\\IRepository.cs",
+              "ToolTip": "C:\\Users\\abdul\\OneDrive\\Masa\u00FCst\u00FC\\Teknoloji_Magazasi\\Teknoloji_Magazasi.DataAcessLayer\\Abstract\\IRepository.cs",
+              "RelativeToolTip": "Teknoloji_Magazasi.DataAcessLayer\\Abstract\\IRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-26T13:34:58.94Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 57,
+              "Title": "Sat\u0131sListView.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\abdul\\OneDrive\\Masa\u00FCst\u00FC\\Teknoloji_Magazasi\\Teknoloji_Magazasi\\Views\\Sat\u0131sViews\\Sat\u0131sListView.xaml.cs",
+              "RelativeDocumentMoniker": "Teknoloji_Magazasi\\Views\\Sat\u0131sViews\\Sat\u0131sListView.xaml.cs",
+              "ToolTip": "C:\\Users\\abdul\\OneDrive\\Masa\u00FCst\u00FC\\Teknoloji_Magazasi\\Teknoloji_Magazasi\\Views\\Sat\u0131sViews\\Sat\u0131sListView.xaml.cs",
+              "RelativeToolTip": "Teknoloji_Magazasi\\Views\\Sat\u0131sViews\\Sat\u0131sListView.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAARAAAA",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAADjSURBVDhPY0AGretv/t9x7tl/KJd0sOfii/\u002Bimfv\u002Bbzv7lGhDGBlid2Eo1pTkZNiSLsVQWVkJFWFgYGdnZygoKGAwNjZmhAphgt0XnsFd8P79\u002B/9Pnz6F47CwsP/R0dH/z549i2IhE5QGg1P3PzMsTtVgsFTiYvj27RtUFAF\u002B//7N0NfXx4BsCIoBIVoMDOaKnFg1wwDIkAkTJkB5oDBAAnFxcf/b29uhPNygsLCQYdWqVWC9KC748eMHlEU8QDGAHDBqABUMQEkHmZmZ/9\u002B\u002BfQvl4QbCwsIM06dPx50niAcMDADfJl5g9BqhpwAAAABJRU5ErkJggg==",
+              "WhenOpened": "2024-09-26T13:34:58.941Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "UrunView.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\abdul\\OneDrive\\Masa\u00FCst\u00FC\\Teknoloji_Magazasi\\Teknoloji_Magazasi\\Views\\UrunViews\\UrunView.xaml.cs",
+              "RelativeDocumentMoniker": "Teknoloji_Magazasi\\Views\\UrunViews\\UrunView.xaml.cs",
+              "ToolTip": "C:\\Users\\abdul\\OneDrive\\Masa\u00FCst\u00FC\\Teknoloji_Magazasi\\Teknoloji_Magazasi\\Views\\UrunViews\\UrunView.xaml.cs",
+              "RelativeToolTip": "Teknoloji_Magazasi\\Views\\UrunViews\\UrunView.xaml.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAADgvyIAAAAgAAAA",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAADjSURBVDhPY0AGretv/t9x7tl/KJd0sOfii/\u002Bimfv\u002Bbzv7lGhDGBlid2Eo1pTkZNiSLsVQWVkJFWFgYGdnZygoKGAwNjZmhAphgt0XnsFd8P79\u002B/9Pnz6F47CwsP/R0dH/z549i2IhE5QGg1P3PzMsTtVgsFTiYvj27RtUFAF\u002B//7N0NfXx4BsCIoBIVoMDOaKnFg1wwDIkAkTJkB5oDBAAnFxcf/b29uhPNygsLCQYdWqVWC9KC748eMHlEU8QDGAHDBqABUMQEkHmZmZ/9\u002B\u002BfQvl4QbCwsIM06dPx50niAcMDADfJl5g9BqhpwAAAABJRU5ErkJggg==",
+              "WhenOpened": "2024-09-26T13:34:58.942Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "packages.config",
+              "DocumentMoniker": "C:\\Users\\abdul\\OneDrive\\Masa\u00FCst\u00FC\\Teknoloji_Magazasi\\Teknoloji_Magazasi\\packages.config",
+              "RelativeDocumentMoniker": "Teknoloji_Magazasi\\packages.config",
+              "ToolTip": "C:\\Users\\abdul\\OneDrive\\Masa\u00FCst\u00FC\\Teknoloji_Magazasi\\Teknoloji_Magazasi\\packages.config",
+              "RelativeToolTip": "Teknoloji_Magazasi\\packages.config",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAJAAAA",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAFlSURBVDhPpZO9qsJAEIWPqyaFjQha2MUHsNDK1p/eRgsbg1Z2UfAx/AEfwVIb8TksfAGxSBAFJY2FpBiddQ1XvOBe7gfLsgfmMJM5wX\u002BJqBu9Xo/O57N6fWKaJvr9PgqFQljDhI9ms0mTyUS9PuHieDyOwWCAYrEY1gl1axEEAcbjMTabDSnpbwYMm0ynU1yvV2kSk6oGP8fjcV6EHcxmMySTSSQSCUSjUaV\u002BRxqcTid6fESUSiU5o2EY2ibieDxSJpOJcAdcNJ/PZTe8Nh1Eq9XCdrulfD4fqdVqUlyv17ILHQSHx7ZtDIdDWiwWT1HoL0fU63X4vo/lcqmkx2piMVwuFxmcbwjHcdDpdJBOp\u002BXJZrM4HA6yq9vtpmXyhuu6VK1WybIsKpfLtN/vibfkeV54OPavIL39GC/YpN1uY7fbIZfLYbVaodvtguiZ4FQqhdFoxJn5tV7CJpVKhRqNRpj7T4A7TASPsDpkW/8AAAAASUVORK5CYII=",
+              "WhenOpened": "2024-09-26T13:34:58.942Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "App.config",
+              "DocumentMoniker": "C:\\Users\\abdul\\OneDrive\\Masa\u00FCst\u00FC\\Teknoloji_Magazasi\\Teknoloji_Magazasi\\App.config",
+              "RelativeDocumentMoniker": "Teknoloji_Magazasi\\App.config",
+              "ToolTip": "C:\\Users\\abdul\\OneDrive\\Masa\u00FCst\u00FC\\Teknoloji_Magazasi\\Teknoloji_Magazasi\\App.config",
+              "RelativeToolTip": "Teknoloji_Magazasi\\App.config",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAFlSURBVDhPpZO9qsJAEIWPqyaFjQha2MUHsNDK1p/eRgsbg1Z2UfAx/AEfwVIb8TksfAGxSBAFJY2FpBiddQ1XvOBe7gfLsgfmMJM5wX\u002BJqBu9Xo/O57N6fWKaJvr9PgqFQljDhI9ms0mTyUS9PuHieDyOwWCAYrEY1gl1axEEAcbjMTabDSnpbwYMm0ynU1yvV2kSk6oGP8fjcV6EHcxmMySTSSQSCUSjUaV\u002BRxqcTid6fESUSiU5o2EY2ibieDxSJpOJcAdcNJ/PZTe8Nh1Eq9XCdrulfD4fqdVqUlyv17ILHQSHx7ZtDIdDWiwWT1HoL0fU63X4vo/lcqmkx2piMVwuFxmcbwjHcdDpdJBOp\u002BXJZrM4HA6yq9vtpmXyhuu6VK1WybIsKpfLtN/vibfkeV54OPavIL39GC/YpN1uY7fbIZfLYbVaodvtguiZ4FQqhdFoxJn5tV7CJpVKhRqNRpj7T4A7TASPsDpkW/8AAAAASUVORK5CYII=",
+              "WhenOpened": "2024-09-26T13:34:58.943Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "MarkaListViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\abdul\\OneDrive\\Masa\u00FCst\u00FC\\Teknoloji_Magazasi\\Teknoloji_Magazasi\\ViewModels\\MarkaViewModels\\MarkaListViewModel.cs",
+              "RelativeDocumentMoniker": "Teknoloji_Magazasi\\ViewModels\\MarkaViewModels\\MarkaListViewModel.cs",
+              "ToolTip": "C:\\Users\\abdul\\OneDrive\\Masa\u00FCst\u00FC\\Teknoloji_Magazasi\\Teknoloji_Magazasi\\ViewModels\\MarkaViewModels\\MarkaListViewModel.cs",
+              "RelativeToolTip": "Teknoloji_Magazasi\\ViewModels\\MarkaViewModels\\MarkaListViewModel.cs",
+              "ViewState": "AQIAADAAAAAAAAAAAAAowE0AAAAQAAAA",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAADtSURBVDhPYxgFCHDh4YX/sQtj/6u3qP9XblL\u002BHzk/8j9UiuHtx7f/VZpVwHxkNggwgohLjy79D18SzmAua86QZJbEwM/Bz3D91XWGCNMIRpAGo34jsGJkwMrMynCn9g5YP0PK0pT/3tO9/3/58gVuMjLA5wImEHH68WkGN3U3Bh4eHoiJJACwAb/\u002B/gI7CRuAeeH3398M8g3ycDayKxjC5oX9D54TjNX5IIDPC2Ann7x78n/E4ggGDw0PhgiDCLBrLj2/xJBhl0HQS3AFe67t\u002BT/lyBSGO2/uMHCxcTHYK9szdAd2kxwmIw8wMAAAESl0qwYO77cAAAAASUVORK5CYII=",
+              "WhenOpened": "2024-09-26T13:34:58.944Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "MarkaViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\abdul\\OneDrive\\Masa\u00FCst\u00FC\\Teknoloji_Magazasi\\Teknoloji_Magazasi\\ViewModels\\MarkaViewModels\\MarkaViewModel.cs",
+              "RelativeDocumentMoniker": "Teknoloji_Magazasi\\ViewModels\\MarkaViewModels\\MarkaViewModel.cs",
+              "ToolTip": "C:\\Users\\abdul\\OneDrive\\Masa\u00FCst\u00FC\\Teknoloji_Magazasi\\Teknoloji_Magazasi\\ViewModels\\MarkaViewModels\\MarkaViewModel.cs",
+              "RelativeToolTip": "Teknoloji_Magazasi\\ViewModels\\MarkaViewModels\\MarkaViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAAQAAAA",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAADtSURBVDhPYxgFCHDh4YX/sQtj/6u3qP9XblL\u002BHzk/8j9UiuHtx7f/VZpVwHxkNggwgohLjy79D18SzmAua86QZJbEwM/Bz3D91XWGCNMIRpAGo34jsGJkwMrMynCn9g5YP0PK0pT/3tO9/3/58gVuMjLA5wImEHH68WkGN3U3Bh4eHoiJJACwAb/\u002B/gI7CRuAeeH3398M8g3ycDayKxjC5oX9D54TjNX5IIDPC2Ann7x78n/E4ggGDw0PhgiDCLBrLj2/xJBhl0HQS3AFe67t\u002BT/lyBSGO2/uMHCxcTHYK9szdAd2kxwmIw8wMAAAESl0qwYO77cAAAAASUVORK5CYII=",
+              "WhenOpened": "2024-09-26T13:34:58.945Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "UnitOfWork.cs",
+              "DocumentMoniker": "C:\\Users\\abdul\\OneDrive\\Masa\u00FCst\u00FC\\Teknoloji_Magazasi\\Teknoloji_Magazasi.DataAcessLayer\\UnitOfWork.cs",
+              "RelativeDocumentMoniker": "Teknoloji_Magazasi.DataAcessLayer\\UnitOfWork.cs",
+              "ToolTip": "C:\\Users\\abdul\\OneDrive\\Masa\u00FCst\u00FC\\Teknoloji_Magazasi\\Teknoloji_Magazasi.DataAcessLayer\\UnitOfWork.cs",
+              "RelativeToolTip": "Teknoloji_Magazasi.DataAcessLayer\\UnitOfWork.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAQwBoAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-26T13:34:58.946Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "DatabaseContext.cs",
+              "DocumentMoniker": "C:\\Users\\abdul\\OneDrive\\Masa\u00FCst\u00FC\\Teknoloji_Magazasi\\Teknoloji_Magazasi.DataAcessLayer\\DatabaseContext.cs",
+              "RelativeDocumentMoniker": "Teknoloji_Magazasi.DataAcessLayer\\DatabaseContext.cs",
+              "ToolTip": "C:\\Users\\abdul\\OneDrive\\Masa\u00FCst\u00FC\\Teknoloji_Magazasi\\Teknoloji_Magazasi.DataAcessLayer\\DatabaseContext.cs",
+              "RelativeToolTip": "Teknoloji_Magazasi.DataAcessLayer\\DatabaseContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAA8AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-26T13:34:58.946Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "UrunRepository.cs",
+              "DocumentMoniker": "C:\\Users\\abdul\\OneDrive\\Masa\u00FCst\u00FC\\Teknoloji_Magazasi\\Teknoloji_Magazasi.DataAcessLayer\\Concrete\\UrunRepository.cs",
+              "RelativeDocumentMoniker": "Teknoloji_Magazasi.DataAcessLayer\\Concrete\\UrunRepository.cs",
+              "ToolTip": "C:\\Users\\abdul\\OneDrive\\Masa\u00FCst\u00FC\\Teknoloji_Magazasi\\Teknoloji_Magazasi.DataAcessLayer\\Concrete\\UrunRepository.cs",
+              "RelativeToolTip": "Teknoloji_Magazasi.DataAcessLayer\\Concrete\\UrunRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAABAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-26T13:34:58.947Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "Sat\u0131sDetayRepository.cs",
+              "DocumentMoniker": "C:\\Users\\abdul\\OneDrive\\Masa\u00FCst\u00FC\\Teknoloji_Magazasi\\Teknoloji_Magazasi.DataAcessLayer\\Concrete\\Sat\u0131sDetayRepository.cs",
+              "RelativeDocumentMoniker": "Teknoloji_Magazasi.DataAcessLayer\\Concrete\\Sat\u0131sDetayRepository.cs",
+              "ToolTip": "C:\\Users\\abdul\\OneDrive\\Masa\u00FCst\u00FC\\Teknoloji_Magazasi\\Teknoloji_Magazasi.DataAcessLayer\\Concrete\\Sat\u0131sDetayRepository.cs",
+              "RelativeToolTip": "Teknoloji_Magazasi.DataAcessLayer\\Concrete\\Sat\u0131sDetayRepository.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAhwBcAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-26T13:34:58.948Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "Repository.cs",
+              "DocumentMoniker": "C:\\Users\\abdul\\OneDrive\\Masa\u00FCst\u00FC\\Teknoloji_Magazasi\\Teknoloji_Magazasi.DataAcessLayer\\Concrete\\Repository.cs",
+              "RelativeDocumentMoniker": "Teknoloji_Magazasi.DataAcessLayer\\Concrete\\Repository.cs",
+              "ToolTip": "C:\\Users\\abdul\\OneDrive\\Masa\u00FCst\u00FC\\Teknoloji_Magazasi\\Teknoloji_Magazasi.DataAcessLayer\\Concrete\\Repository.cs",
+              "RelativeToolTip": "Teknoloji_Magazasi.DataAcessLayer\\Concrete\\Repository.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABwAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-26T13:34:58.949Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "Kullan\u0131c\u0131Repository.cs",
+              "DocumentMoniker": "C:\\Users\\abdul\\OneDrive\\Masa\u00FCst\u00FC\\Teknoloji_Magazasi\\Teknoloji_Magazasi.DataAcessLayer\\Concrete\\Kullan\u0131c\u0131Repository.cs",
+              "RelativeDocumentMoniker": "Teknoloji_Magazasi.DataAcessLayer\\Concrete\\Kullan\u0131c\u0131Repository.cs",
+              "ToolTip": "C:\\Users\\abdul\\OneDrive\\Masa\u00FCst\u00FC\\Teknoloji_Magazasi\\Teknoloji_Magazasi.DataAcessLayer\\Concrete\\Kullan\u0131c\u0131Repository.cs",
+              "RelativeToolTip": "Teknoloji_Magazasi.DataAcessLayer\\Concrete\\Kullan\u0131c\u0131Repository.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAhwBQAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-26T13:34:58.95Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "IUrunRepository.cs",
+              "DocumentMoniker": "C:\\Users\\abdul\\OneDrive\\Masa\u00FCst\u00FC\\Teknoloji_Magazasi\\Teknoloji_Magazasi.DataAcessLayer\\Abstract\\IUrunRepository.cs",
+              "RelativeDocumentMoniker": "Teknoloji_Magazasi.DataAcessLayer\\Abstract\\IUrunRepository.cs",
+              "ToolTip": "C:\\Users\\abdul\\OneDrive\\Masa\u00FCst\u00FC\\Teknoloji_Magazasi\\Teknoloji_Magazasi.DataAcessLayer\\Abstract\\IUrunRepository.cs",
+              "RelativeToolTip": "Teknoloji_Magazasi.DataAcessLayer\\Abstract\\IUrunRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-26T13:34:58.95Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "Sat\u0131sDetayViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\abdul\\OneDrive\\Masa\u00FCst\u00FC\\Teknoloji_Magazasi\\Teknoloji_Magazasi\\ViewModels\\Sat\u0131sDetayViewModels\\Sat\u0131sDetayViewModel.cs",
+              "RelativeDocumentMoniker": "Teknoloji_Magazasi\\ViewModels\\Sat\u0131sDetayViewModels\\Sat\u0131sDetayViewModel.cs",
+              "ToolTip": "C:\\Users\\abdul\\OneDrive\\Masa\u00FCst\u00FC\\Teknoloji_Magazasi\\Teknoloji_Magazasi\\ViewModels\\Sat\u0131sDetayViewModels\\Sat\u0131sDetayViewModel.cs",
+              "RelativeToolTip": "Teknoloji_Magazasi\\ViewModels\\Sat\u0131sDetayViewModels\\Sat\u0131sDetayViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAG4AAAAoAAAA",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAADtSURBVDhPYxgFCHDh4YX/sQtj/6u3qP9XblL\u002BHzk/8j9UiuHtx7f/VZpVwHxkNggwgohLjy79D18SzmAua86QZJbEwM/Bz3D91XWGCNMIRpAGo34jsGJkwMrMynCn9g5YP0PK0pT/3tO9/3/58gVuMjLA5wImEHH68WkGN3U3Bh4eHoiJJACwAb/\u002B/gI7CRuAeeH3398M8g3ycDayKxjC5oX9D54TjNX5IIDPC2Ann7x78n/E4ggGDw0PhgiDCLBrLj2/xJBhl0HQS3AFe67t\u002BT/lyBSGO2/uMHCxcTHYK9szdAd2kxwmIw8wMAAAESl0qwYO77cAAAAASUVORK5CYII=",
+              "WhenOpened": "2024-09-26T13:34:58.951Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
