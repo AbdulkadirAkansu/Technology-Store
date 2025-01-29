@@ -1,4 +1,8 @@
-Kasiyer barkod numarası ile ürün ekleyip toplam ürün fiyatını tamamladığında admin giriş panelinde satış yapılan ürün ve fiyatı görüntülenir.
-Admin kullanıcı eklemesi yapabilir,ürün ekleyebilir,marka ekleyebilir ve satış yapılan ürünleri görüntüleyebilir.
+📌 Technology Store - Satış Takip Sistemi
+Technology Store, mağazalarda barkodlu satış sistemini yöneten bir kasiyer ve admin paneli içeren bir yönetim platformudur. Bu sistem sayesinde:
 
-ScreenShotlar için Issues : https://github.com/AbdulkadirAkansu/Technology-Store/issues/1
+🛒 Kasiyerler: Barkod numarası ile ürün ekleyip, satış işlemlerini gerçekleştirebilir ve toplam satış tutarını hesaplayabilir.
+📊 Adminler: Satış yapılan ürünleri ve fiyatlarını görüntüleyebilir, yeni kullanıcılar, ürünler ve markalar ekleyebilir.
+
+Not: Daha fazla ekran görüntüsü için Issues (https://github.com/AbdulkadirAkansu/Technology-Store/issues/1) sayfasını ziyaret edebilirsiniz.
+
